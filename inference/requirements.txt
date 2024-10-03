@@ -1,0 +1,9 @@
+transformers
+torch --extra-index-url https://download.pytorch.org/whl/cu124
+torchvision --extra-index-url https://download.pytorch.org/whl/cu124
+torchaudio --extra-index-url https://download.pytorch.org/whl/cu124
+sentencepiece
+datasets
+pandas
+accelerate>=0.26.0
+gradio

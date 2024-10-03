@@ -1,0 +1,354 @@
+[
+  {
+    "input_text": "700 gram kuşburnu marmeladı, yüzde 100 doğal. Kapağını açtıktan sonra buzdolabında saklayın.",
+    "output_text": "Kuşburnu Marmelatı 700 gr Cam Kavanoz"
+  },
+  {
+    "input_text": "255 gram, tamamen doğal ve katkı maddesi içermez. Açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Doğal Kuşburnu Marmelatı 255 G Bolu - Şekersiz Kuşburnu Marmelatı - Kuşburnu Reçeli Şekersiz"
+  },
+  {
+    "input_text": "190 gram, kuru incir, kayısı ve erikten elde edilen, katkı maddesi içermeyen doğal lezzet. Buzdolabında saklayın.",
+    "output_text": "Marmelat (kuru Incir-kayısı-erik - 190 Gram)"
+  },
+  {
+    "input_text": "250 gram, katkı maddesi içermeyen doğal üzüm aroması. Açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Kokulu Üzüm Marmelatı 250 G"
+  },
+  {
+    "input_text": "%100 doğal kuşburnu marmelatı, hiçbir katkı maddesi içermez. Kahvaltılar için sağlıklı bir lezzet.",
+    "output_text": "Kuşburnu Marmelatı Doğal 630 gr Ö006"
+  },
+  {
+    "input_text": "Şekersiz alıç marmelatı, tamamen doğal içeriklerle hazırlanmış sağlıklı bir alternatif.",
+    "output_text": "Alıç Marmelatı Şekersiz 400 G"
+  },
+  {
+    "input_text": "Kızılcık meyvesinin doğal tadını koruyan, katkısız marmelat. Eşsiz lezzetiyle kahvaltılarınızı zenginleştirir.",
+    "output_text": "Kızılcık Marmelatı 630 gr"
+  },
+  {
+    "input_text": "El yapımı yabani erik marmelatı, taze meyvelerden elde edilen doğal bir tat.",
+    "output_text": "Yabani Erik Marmelatı 750 gr (EL YAPIMI)"
+  },
+  {
+    "input_text": "Ispir bölgesinin meşhur kızılcık kurusu, katkısız ve tamamen doğal bir atıştırmalık.",
+    "output_text": "Ispir Kızılcık Kurusu 1kg"
+  },
+  {
+    "input_text": "Salamura yöntemiyle hazırlanan yayla muzu ve dağ muzu turşusu, doğal ve sağlıklı bir lezzet.",
+    "output_text": "Taze Işkın Otu,yayla Muzu,dağ Muzu Turşusu 660 CC Salamura "
+  },
+  {
+    "input_text": "Geleneksel yöntemlerle kurutulmuş doğal ığde, katkı maddesi içermez.",
+    "output_text": "Iğde Kurusu 1 Kg"
+  },
+  {
+    "input_text": "İnce ve yumuşak lavaş ekmeği, dürümleriniz için idealdir.",
+    "output_text": "Lavaş Ekmeği İnce Dürümlük 10 Adet "
+  },
+  {
+    "input_text": "Uzundere bölgesinden toplanan doğal üvez meyvesi, taze ve sağlıklı bir seçenektir.",
+    "output_text": "Uzundere Üvezi 1 Kg"
+  },
+  {
+    "input_text": "Doğal ve katkısız şeker fasulyesi, besleyici ve sağlıklı bir bakliyat.",
+    "output_text": "Şeker Fasulyesi 500 GR "
+  },
+  {
+    "input_text": "Tamamen ev yapımı yeşil fasulye turşusu, sofralarınıza taze ve doğal bir tat getirir.",
+    "output_text": "Ev Yapımı Yeşil Fasulye Turşusu 2000 Gr"
+  },
+  {
+    "input_text": "Ev yapımı yumurtalı erişte, doğal içeriklerle hazırlanmış geleneksel bir lezzettir.",
+    "output_text": "Yumurtalı Erişte 1 Paket"
+  },
+  {
+    "input_text": "Geleneksel kıtlama şekeri, çaylarınızın yanına eşsiz bir tat katar.",
+    "output_text": "Kıtlama Şekeri 5 Kg"
+  },
+  {
+    "input_text": "Ev yapımı siron yufkası, doğal malzemelerle üretilmiş, hafif ve lezzetli bir üründür.",
+    "output_text": "Siron(ziron-silor) 1000 Gram"
+  },
+  {
+    "input_text": "Doğal yöntemlerle kurutulmuş incir, yüksek lif kaynağıdır.",
+    "output_text": "Kuru Incir 500gr"
+  },
+  {
+    "input_text": "Katkısız ve doğal kuru üzüm, sağlıklı atıştırmalık olarak idealdir.",
+    "output_text": "Kuru Üzüm 500gr"
+  },
+  {
+    "input_text": "Yeni hasat edilmiş taze alıç meyvesi, vitamin açısından zengin bir üründür.",
+    "output_text": "Yeni Mahsul Taze Alıç Meyvesi 3 Kg"
+  },
+  {
+    "input_text": "Soyulmuş ve kurutulmuş doğal elma, sağlıklı ve lezzetli bir atıştırmalık.",
+    "output_text": "Elma Kurusu (soyulmuş) 1 Kg"
+  },
+  {
+    "input_text": "Elazığ'a özgü cevizli orciği, doğal kuruyemişlerle hazırlanmış bir atıştırmalık.",
+    "output_text": "Orcik, Cevizli Sucuk, Pestil, Köme, Atıştırmalık, Kuruyemiş, Çerez, Elazığ Cevizli Orciği 1 Kg"
+  },
+  {
+    "input_text": "Siirt bölgesinin meşhur karakovan petek balı, saf ve doğal bir bal kaynağıdır.",
+    "output_text": "Petek Balı Siirt Karakovan 1kg"
+  },
+  {
+    "input_text": "Siirt'in saf karakovan balı, doğallığı ve zengin aromasıyla öne çıkar.",
+    "output_text": "Süzme Bal Siirt Hakiki Karakovan 920gr"
+  },
+  {
+    "input_text": "Yüksek antioksidan içeren doğal karadut özü, sağlıklı bir içecek seçeneğidir.",
+    "output_text": "Karadut Özü 1400 Gr"
+  },
+  {
+    "input_text": "Yerli üretim kara mercimek, protein ve lif açısından zengin, doğal bir bakliyat.",
+    "output_text": "Yerli Kara Mercimek 3kg"
+  },
+  {
+    "input_text": "Sarı kantaron yağı içerikli krem seti, doğal cilt bakımına yardımcı olur.",
+    "output_text": "Sarı Kantaron Krem Seti 50 Ml 25 Ml"
+  },
+  {
+    "input_text": "Geleneksel yöntemlerle üretilen doğal köy yağı, az tuzlu ve katkısızdır.",
+    "output_text": "Doğal Köy Yağı - Birtat Yöresel Geleneksel Üretim - Az Tuzlu 1 KG"
+  },
+  {
+    "input_text": "Az acılı katıklı ekmek, yöresel lezzet arayanlar için ideal bir seçenek.",
+    "output_text": "Az Acılı Katıklı Ekmek 10 adet"
+  },
+  {
+    "input_text": "Kurutulmuş acı biber, mezeler ve yemekler için doğal bir lezzet katıcıdır.",
+    "output_text": "Kurutulmuş Mezelik Acı Biber Atom 1 Bağ Dizi"
+  },
+  {
+    "input_text": "Soğuk sıkım yöntemiyle elde edilen asitsiz zeytinyağı, yemeklerinizde doğal bir tat sunar.",
+    "output_text": "Soğuk Sıkım Asitsiz Zeytinyağ 20 Litre"
+  },
+  {
+    "input_text": "Kabak lifli ve aloe vera içerikli doğal sabun, cilt bakımında sağlıklı bir tercih.",
+    "output_text": "Doğal Kabak Lifli Aloe Vera Sabunu- 120 gram"
+  },
+  {
+    "input_text": "Kızılcık pestili, geleneksel yöntemlerle üretilmiş sağlıklı bir atıştırmalık.",
+    "output_text": "Doğal Kızılcık Pestil 1000gr"
+  },
+  {
+    "input_text": "Ev yapımı limon sarımsak kürü, doğal içerikleriyle bağışıklık güçlendirici etkisiyle bilinir.",
+    "output_text": "Limon Sarımsak Kürü % 100 Ev Yapımı Cam Şişe 500 Ml X2"
+  },
+  {
+    "input_text": "Salamura yöntemiyle hazırlanan yaprak peynir, sofralarınıza lezzet ve doğallık katar.",
+    "output_text": "salamura yaprak peynir 1000 gr"
+  },
+  {
+    "input_text": "Bucak bölgesine özgü hakiki salep, sıcak içecek ve dondurma yapımı için idealdir.",
+    "output_text": "Bucak Salebi 10 Fincan Sıcak Salep / 2 Kg Dondurmalık Hakiki Bucak Salebi + Şeker"
+  },
+  {
+    "input_text": "Geleneksel içli köfte, doğal malzemelerle hazırlanan yöresel bir lezzettir.",
+    "output_text": "Oruk (İÇLİ KÖFTE) 5 Adet"
+  },
+  {
+    "input_text": "Yüksek protein içeriğiyle yerli üretim Tozkoparan nohutu, sağlıklı ve besleyici bir bakliyattır.",
+    "output_text": "Yerli Tozkoparan Nohutu 1kg"
+  },
+  {
+    "input_text": "Organik domates ve biberlerden yapılan karışık salça, tuzsuz ve katkısızdır.",
+    "output_text": "Organik Domates Biber Karışık Salça (tuzsuz) 650gr"
+  },
+  {
+    "input_text": "500 gram tamamen doğal çilek marmeladı, katkı maddesi içermez. Açtıktan sonra serin yerde saklayın.",
+    "output_text": "Doğal Çilek Marmelatı 500 gr"
+  },
+  {
+    "input_text": "Kurutulmuş ıhlamur yaprakları, doğal bir içecek hazırlamak için idealdir.",
+    "output_text": "Kurutulmuş Ihlamur Yaprağı 200 gr"
+  },
+  {
+    "input_text": "300 gram, yüzde 100 organik elma püresi, taze ve sağlıklı bir atıştırmalık.",
+    "output_text": "Organik Elma Püresi 300 gr"
+  },
+  {
+    "input_text": "1 kg, yerel çiftliklerden toplanmış organik ceviz. Sağlıklı ve lezzetli.",
+    "output_text": "Organik Ceviz 1 kg"
+  },
+  {
+    "input_text": "Taze köy sütü ile üretilmiş peynir, hiçbir katkı maddesi içermez.",
+    "output_text": "Doğal Köy Peyniri 750 gr"
+  },
+  {
+    "input_text": "Köy usulü 500 gram doğal tereyağı, ev yapımı lezzet.",
+    "output_text": "Ev Yapımı Doğal Tereyağı 500 gr"
+  },
+  {
+    "input_text": "250 gram, katkı maddesiz çiçek balı, kahvaltılar için doğal bir lezzet.",
+    "output_text": "Katkısız Çiçek Balı 250 gr"
+  },
+  {
+    "input_text": "Taze üretilmiş ev yapımı turşu, sofralarınıza doğal bir lezzet katacak.",
+    "output_text": "Ev Yapımı Karışık Turşu 1kg"
+  },
+  {
+    "input_text": "500 gram, tamamen doğal vişne reçeli. Serin bir yerde muhafaza ediniz.",
+    "output_text": "Doğal Vişne Reçeli 500 gr"
+  },
+  {
+    "input_text": "Yüzde 100 doğal çam balı, katkı maddesi içermez. 1 kg.",
+    "output_text": "Doğal Çam Balı 1 kg"
+  },
+  {
+    "input_text": "Katkısız ev yapımı ayva reçeli, kahvaltılar için lezzetli bir seçenek.",
+    "output_text": "Ev Yapımı Ayva Reçeli 450 gr"
+  },
+  {
+    "input_text": "Taze sıkılmış nar ekşisi, doğal bir tat katmak için yemeklerinizde kullanın.",
+    "output_text": "Doğal Nar Ekşisi 300 ml"
+  },
+  {
+    "input_text": "Katkısız ev yapımı zeytinyağı, tamamen doğal yöntemlerle üretilmiştir.",
+    "output_text": "Katkısız Zeytinyağı 1 Litre"
+  },
+  {
+    "input_text": "500 gram, el yapımı tahin pekmez karışımı. Serin yerde saklayın.",
+    "output_text": "Tahin Pekmez Karışımı 500 gr"
+  },
+  {
+    "input_text": "Tamamen doğal tarhana, geleneksel yöntemlerle hazırlanmıştır. 1 kg.",
+    "output_text": "Doğal Tarhana 1 kg"
+  },
+  {
+    "input_text": "Organik taze fasulye turşusu, katkı maddesi içermez. 500 gram.",
+    "output_text": "Organik Taze Fasulye Turşusu 500 gr"
+  },
+  {
+    "input_text": "Yüzde 100 organik kabak çekirdeği, doğal bir atıştırmalık. 250 gram.",
+    "output_text": "Organik Kabak Çekirdeği 250 gr"
+  },
+  {
+    "input_text": "Ev yapımı kuru incir pestili, katkısız doğal lezzet. 300 gram.",
+    "output_text": "Kuru İncir Pestili 300 gr"
+  },
+  {
+    "input_text": "Doğal yöntemlerle kurutulmuş kayısı, yüksek lif kaynağı. 400 gram.",
+    "output_text": "Kuru Kayısı 400 gr"
+  },
+  {
+    "input_text": "El yapımı gül reçeli, hiçbir katkı maddesi içermez. 300 gram.",
+    "output_text": "Ev Yapımı Gül Reçeli 300 gr"
+  },
+  {
+    "input_text": "1 kg, doğal ve katkısız köy yumurtası. Kahvaltılar için ideal.",
+    "output_text": "Doğal Köy Yumurtası 1 kg"
+  },
+  {
+    "input_text": "Tamamen doğal siyah üzüm sirkesi, salatalar için eşsiz bir tat. 500 ml.",
+    "output_text": "Doğal Siyah Üzüm Sirkesi 500 ml"
+  },
+  {
+    "input_text": "Katkısız ev yapımı böğürtlen reçeli, yüzde 100 doğal lezzet. 250 gram.",
+    "output_text": "Ev Yapımı Böğürtlen Reçeli 250 gr"
+  },
+  {
+    "input_text": "600 gram, tamamen organik armut marmeladı. Katkı maddesi içermez.",
+    "output_text": "Organik Armut Marmeladı 600 gr"
+  },
+  {
+    "input_text": "Yüzde 100 doğal bal kabağı reçeli, taze ve katkısız. Serin yerde saklayın.",
+    "output_text": "Doğal Bal Kabağı Reçeli 400 gr"
+  },
+  {
+    "input_text": "Ev yapımı acı biber turşusu, geleneksel yöntemlerle üretilmiştir. 750 gram.",
+    "output_text": "Ev Yapımı Acı Biber Turşusu 750 gr"
+  },
+  {
+    "input_text": "Katkısız doğal köy ekmeği, tam buğday unundan yapılmıştır. 500 gram.",
+    "output_text": "Tam Buğday Köy Ekmeği 500 gr"
+  },
+  {
+    "input_text": "Köyden toplanmış doğal taze ceviz, kabuklu. Serin yerde muhafaza ediniz.",
+    "output_text": "Kabuklu Ceviz 1 kg"
+  },
+  {
+    "input_text": "250 ml doğal elma sirkesi, taze elmalardan yapılmıştır. Yemeklerde ve salatalarda kullanın.",
+    "output_text": "Doğal Elma Sirkesi 250 ml"
+  },
+  {
+    "input_text": "Katkısız karadut reçeli, tamamen ev yapımıdır. Kahvaltılar için ideal.",
+    "output_text": "Ev Yapımı Karadut Reçeli 500 gr"
+  },
+  {
+    "input_text": "400 gram, doğal nar çekirdeği yağı, cilt bakımında kullanılır.",
+    "output_text": "Doğal Nar Çekirdeği Yağı 400 gr"
+  },
+  {
+    "input_text": "Yüzde 100 doğal kayısı çekirdeği, sağlıklı atıştırmalık. 300 gram.",
+    "output_text": "Doğal Kayısı Çekirdeği 300 gr"
+  },
+  {
+    "input_text": "Doğal üretim taş baskı zeytinyağı, soğuk sıkım yöntemiyle üretilmiştir. 1 litre.",
+    "output_text": "Taş Baskı Zeytinyağı 1 Litre"
+  },
+  {
+    "input_text": "Yerli üretim, 250 gram doğal keçi peyniri. Katkı maddesi içermez.",
+    "output_text": "Doğal Keçi Peyniri 250 gr"
+  },
+  {
+    "input_text": "El yapımı kara erik reçeli, katkısız ve tamamen doğal. 350 gram.",
+    "output_text": "Doğal Kara Erik Reçeli 350 gr"
+  },
+  {
+    "input_text": "Yüzde 100 doğal incir marmeladı, kahvaltılarda kullanabilirsiniz. 300 gram.",
+    "output_text": "Doğal İncir Marmeladı 300 gr"
+  },
+  {
+    "input_text": "Ev yapımı keçiboynuzu pekmezi, enerji verici doğal bir üründür. 500 ml.",
+    "output_text": "Keçiboynuzu Pekmezi 500 ml"
+  },
+  {
+    "input_text": "Katkısız organik taze maydanoz, tamamen doğal yöntemlerle yetiştirilmiştir.",
+    "output_text": "Organik Taze Maydanoz 100 gr"
+  },
+  {
+    "input_text": "Doğal ve katkısız kuru domates, sağlıklı atıştırmalık. 200 gram.",
+    "output_text": "Kuru Domates 200 gr"
+  },
+  {
+    "input_text": "Yerli üretim, 500 gram doğal kuzu kıyma. Katkı maddesi içermez.",
+    "output_text": "Doğal Kuzu Kıyma 500 gr"
+  },
+  {
+    "input_text": "Ev yapımı kuru kayısı pestili, katkısız ve doğal. 400 gram.",
+    "output_text": "Kuru Kayısı Pestili 400 gr"
+  },
+  {
+    "input_text": "Yüzde 100 doğal kuru erik, sağlıklı atıştırmalık. 300 gram.",
+    "output_text": "Doğal Kuru Erik 300 gr"
+  },
+  {
+    "input_text": "Ev yapımı kuru üzüm pestili, katkısız ve doğal. 500 gram.",
+    "output_text": "Kuru Üzüm Pestili 500 gr"
+  },
+  {
+    "input_text": "Yerli üretim, 1 kg doğal kuzu kuşbaşı et. Katkı maddesi içermez.",
+    "output_text": "Doğal Kuzu Kuşbaşı Et 1 kg"
+  },
+  {
+    "input_text": "Ev yapımı kuru incir pestili, katkısız ve doğal. 300 gram.",
+    "output_text": "Kuru İncir Pestili 300 gr"
+  },
+  {
+    "input_text": "Yüzde 100 doğal kuru erik, sağlıklı atıştırmalık. 300 gram.",
+    "output_text": "Doğal Kuru Erik 300 gr"
+  },
+  {
+    "input_text": "Ev yapımı kuru üzüm pestili, katkısız ve doğal. 500 gram.",
+    "output_text": "Kuru Üzüm Pestili 500 gr"
+  },
+  {
+    "input_text": "Yerli üretim, 1 kg doğal kuzu kuşbaşı et. Katkı maddesi içermez.",
+    "output_text": "Doğal Kuzu Kuşbaşı Et 1 kg"
+  }
+]

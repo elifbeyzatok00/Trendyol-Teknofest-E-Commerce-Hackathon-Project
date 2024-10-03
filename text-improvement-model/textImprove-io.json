@@ -1,0 +1,1066 @@
+[
+  {
+    "input_text": "700 gram kuşburnu marmeladı, yüzde 100 doğal. Kapağını açtıktan sonra buzdolabında saklayın.",
+    "output_text": "Bu %100 doğal kuşburnu reçeli, 700g’lık kavanozlarda mevcuttur ve katkı maddesi içermez, saf meyve lezzeti sunar. Ürünün tazeliğini sağlamak için kapağı açıldıktan sonra buzdolabında saklayın. Kahvaltıda veya tatlılar için kullanabilirsiniz."
+  },
+  {
+    "input_text": "255 gram, tamamen doğal ve katkı maddesi içermez. Açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Şekersiz kuşburnu marmelatı, tamamen doğal malzemelerle üretilmiştir ve katkı maddesi içermez. 255 gramlık pratik ambalajı ile her kahvaltıda veya tatlılarda kullanabileceğiniz sağlıklı bir alternatiftir. Gerçek kuşburnu lezzeti sunarak, hem tatlı krizlerinizi hem de sağlıklı atıştırmalık ihtiyacınızı karşılar. Tazeliğini korumak için açıldıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "190 gram, kuru incir, kayısı ve erikten elde edilen, katkı maddesi içermeyen doğal lezzet. Buzdolabında saklayın.",
+    "output_text": "Yumuşatan Marmelat, kuru incir, kayısı ve erikten elde edilen zengin lezzetiyle mutfağınıza yenilik katıyor. 190 gramlık ambalajıyla hem pratik hem de sağlıklı bir seçenek sunar. İçeriğinde katkı maddesi bulunmaz, sadece doğal meyve tatlarıyla hazırlanmıştır. Tazeliğini korumak için açıldıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "250 gram, katkı maddesi içermeyen doğal üzüm aroması. Açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Kokulu Üzüm Marmelatı, özenle seçilen üzümlerden hazırlanmış, katkı maddesi içermeyen doğal bir lezzettir. 250 gramlık ambalajında sunulan bu marmelat, hem kahvaltılarda hem de tatlılarınızda taze üzüm aromasıyla sofralarınızı zenginleştirir. Yoğun meyve tadıyla sağlıklı bir atıştırmalık alternatifi olan bu ürün, açıldıktan sonra buzdolabında saklanarak tazeliğini uzun süre korur."
+  },
+  {
+    "input_text": "%100 doğal kuşburnu marmelatı, hiçbir katkı maddesi içermez. Kahvaltılar için sağlıklı bir lezzet.",
+    "output_text": "Bu %100 doğal kuşburnu marmelatı, katkı maddesi içermeyen, saf bir meyve lezzeti sunar. Kahvaltılarda ekmeğin üzerine sürerek veya tatlılarınıza ekleyerek tüketebileceğiniz sağlıklı bir alternatiftir. Geleneksel yöntemlerle üretilmiş olan bu marmelat, vitamin açısından zengin içeriğiyle bağışıklığınızı güçlendirmeye yardımcı olur. Tazeliğini korumak için açıldıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "Şekersiz alıç marmelatı, tamamen doğal içeriklerle hazırlanmış sağlıklı bir alternatif.",
+    "output_text": "Şekersiz alıç marmelatı, tamamen doğal malzemelerle üretilmiş olup, yapay tatlandırıcılar ve katkı maddesi içermez. Hafif ekşi ve taze alıç aroması ile hem kahvaltılarınızda hem de sağlıklı atıştırmalık arayışlarınızda ideal bir lezzet sunar. Alıcın yüksek antioksidan içeriği sayesinde bağışıklık sistemini destekler. Marmelatı tazeliğini korumak için açıldıktan sonra buzdolabında muhafaza edin."
+  },
+  {
+    "input_text": "Kızılcık meyvesinin doğal tadını koruyan, katkısız marmelat. Eşsiz lezzetiyle kahvaltılarınızı zenginleştirir.",
+    "output_text": "Kızılcık Marmelatı, doğal kızılcık meyvelerinden elde edilerek katkı maddesi olmadan üretilmiştir. Yoğun kızılcık aromasıyla kahvaltılarınızı lezzetlendiren bu marmelat, hafif ekşimsi tadıyla tatlılarınıza da farklı bir dokunuş katar. Vitamin açısından zengin içeriğiyle sağlıklı bir yaşam tarzını destekler. Açıldıktan sonra buzdolabında saklayarak tazeliğini uzun süre koruyabilirsiniz."
+  },
+  {
+    "input_text": "El yapımı yabani erik marmelatı, taze meyvelerden elde edilen doğal bir tat.",
+    "output_text": "Yabani Erik Marmelatı, el yapımı ve taze yabani eriklerden elde edilmiş doğal bir üründür. Tamamen katkısız olarak üretilmiş olan bu marmelat, erik meyvesinin doğal ekşimsi ve tatlı dengesini sunar. Hem kahvaltılarda hem de tatlı tariflerinde sağlıklı ve lezzetli bir alternatif olarak kullanılabilir. Tazeliğini koruması için açıldıktan sonra buzdolabında saklanmalıdır."
+  },
+  {
+    "input_text": "Ispir bölgesinin meşhur kızılcık kurusu, katkısız ve tamamen doğal bir atıştırmalık.",
+    "output_text": "Ispir bölgesinin meşhur kızılcık kurusu, özenle seçilmiş doğal kızılcık meyvelerinin kurutulmasıyla elde edilmiştir. Hiçbir katkı maddesi içermeyen bu sağlıklı atıştırmalık, yoğun meyve aroması ve yüksek antioksidan içeriğiyle dikkat çeker. Özellikle enerji ihtiyacınızı karşılamak ve bağışıklığınızı desteklemek için ideal bir alternatiftir. Serin ve kuru bir yerde saklanarak uzun süre tazeliği korunabilir."
+  },
+  {
+    "input_text": "Salamura yöntemiyle hazırlanan yayla muzu ve dağ muzu turşusu, doğal ve sağlıklı bir lezzet.",
+    "output_text": "Yayla muzu ve dağ muzu turşusu, geleneksel salamura yöntemiyle doğal ve katkısız olarak hazırlanmıştır. Bu lezzetli ve sağlıklı turşu, yemeklerinize ve salatalarınıza eşsiz bir tat katar. Yüksek lif ve vitamin içeriğiyle sindirim sistemini destekler. Fermente yapısı sayesinde probiyotik açısından da zengin olan bu turşu, sofralarınıza doğallık ve sağlık getirir."
+  },
+  {
+    "input_text": "Geleneksel yöntemlerle kurutulmuş doğal ığde, katkı maddesi içermez.",
+    "output_text": "Doğal ığde, geleneksel yöntemlerle kurutulmuş olup hiçbir katkı maddesi içermez. Yoğun lif ve vitamin içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Bu doğal atıştırmalık, hafif tatlı lezzetiyle hem çocuklar hem de yetişkinler için sağlıklı bir alternatif olarak öne çıkar. Serin ve kuru bir ortamda saklandığında tazeliğini korur."
+  },
+  {
+    "input_text": "İnce ve yumuşak lavaş ekmeği, dürümleriniz için idealdir.",
+    "output_text": "İnce ve yumuşak yapısıyla dikkat çeken lavaş ekmeği, özellikle dürümler için mükemmel bir tercihtir. Geleneksel fırın yöntemleriyle pişirilmiş olan bu lavaş, hem hafif hem de doyurucu bir seçenek sunar. Taze malzemelerle hazırlanmış dürümlerle birlikte mükemmel uyum sağlayan bu ekmek, farklı tariflerinizde de rahatlıkla kullanılabilir."
+  },
+  {
+    "input_text": "Uzundere bölgesinden toplanan doğal üvez meyvesi, taze ve sağlıklı bir seçenektir.",
+    "output_text": "Uzundere bölgesinden özenle toplanmış olan doğal üvez meyvesi, tazeliği ve zengin besin içeriğiyle dikkat çeker. Yüksek vitamin ve mineral içeriği sayesinde bağışıklık sistemini güçlendiren bu meyve, aynı zamanda hafif ekşi tadıyla da mutfağınıza farklı bir lezzet katar. Doğrudan tüketilebileceği gibi, çeşitli tatlılarda ve içeceklerde de kullanılabilir."
+  },
+  {
+    "input_text": "Doğal ve katkısız şeker fasulyesi, besleyici ve sağlıklı bir bakliyat.",
+    "output_text": "Tamamen doğal ve katkısız olarak üretilmiş olan şeker fasulyesi, hem besleyici hem de sağlıklı bir bakliyat seçeneğidir. Yüksek protein ve lif içeriği sayesinde uzun süre tokluk sağlar ve sindirimi destekler. Salatalardan ana yemeklere kadar pek çok tarifte kullanılabilecek bu fasulye, sofralarınıza lezzet ve sağlık katacaktır."
+  },
+  {
+    "input_text": "Tamamen ev yapımı yeşil fasulye turşusu, sofralarınıza taze ve doğal bir tat getirir.",
+    "output_text": "Bu ev yapımı yeşil fasulye turşusu, tamamen doğal malzemelerle hazırlanmış, katkısız ve taze bir lezzet sunar. Geleneksel salamura yöntemiyle hazırlanan turşu, yemeklerinize eşlik edecek ferahlatıcı bir seçenek. Hem sağlıklı hem de düşük kalorili olan bu turşu, bağışıklık sisteminizi desteklerken sofralarınıza canlılık katar."
+  },
+  {
+    "input_text": "Ev yapımı yumurtalı erişte, doğal içeriklerle hazırlanmış geleneksel bir lezzettir.",
+    "output_text": "Ev yapımı yumurtalı erişte, geleneksel tariflere sadık kalarak tamamen doğal malzemelerle hazırlanmıştır. İpeksi dokusu ve yoğun lezzetiyle hem günlük öğünlerinizde hem de özel tariflerinizde kullanabileceğiniz bu erişte, protein açısından zengin olup doyurucu ve besleyici bir alternatiftir."
+  },
+  {
+    "input_text": "Geleneksel kıtlama şekeri, çaylarınızın yanına eşsiz bir tat katar.",
+    "output_text": "Geleneksel kıtlama şekeri, özellikle çay keyiflerinizde mükemmel bir eşlikçi. Anadolu'nun köklü bir geleneği olan bu şeker, ağzınızda kolayca eriyerek çayınıza tatlı bir dokunuş katar. Doğal şeker kamışından elde edilen bu ürün, katkısız ve saf tat sunar."
+  },
+  {
+    "input_text": "Ev yapımı siron yufkası, doğal malzemelerle üretilmiş, hafif ve lezzetli bir üründür.",
+    "output_text": "Siron yufkası, geleneksel yöntemlerle doğal malzemeler kullanılarak evde hazırlanmıştır. İnce yapısı ve hafif lezzetiyle hem kahvaltılarda hem de ana yemeklerde kullanabileceğiniz bu yufka, siron gibi yöresel yemeklerin olmazsa olmazıdır."
+  },
+  {
+    "input_text": "Doğal yöntemlerle kurutulmuş incir, yüksek lif kaynağıdır.",
+    "output_text": "Doğal yöntemlerle güneşte kurutulan incir, katkı maddesi içermeyen sağlıklı bir atıştırmalık olarak öne çıkar. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk sağlar. Günlük enerji ihtiyacınızı karşılamaya yardımcı olan bu kuru incir, aynı zamanda tatlılarda da kullanılabilir."
+  },
+  {
+    "input_text": "Katkısız ve doğal kuru üzüm, sağlıklı atıştırmalık olarak idealdir.",
+    "output_text": "Katkısız ve doğal olarak üretilmiş kuru üzüm, özellikle enerji ihtiyacını karşılamak için harika bir atıştırmalık alternatifidir. Antioksidan ve demir açısından zengin içeriği sayesinde bağışıklık sistemini destekler ve kan dolaşımını iyileştirir. Kahvaltılarda, tatlılarda veya doğrudan tüketebileceğiniz bu üzüm, gün boyunca sizi zinde tutar."
+  },
+  {
+    "input_text": "Yeni hasat edilmiş taze alıç meyvesi, vitamin açısından zengin bir üründür.",
+    "output_text": "Yeni hasat edilmiş taze alıç meyvesi, doğal formuyla vitamin ve antioksidan deposu olarak bilinir. Hafif ekşi tadıyla hem doğrudan tüketilebilir hem de çeşitli tatlı ve içeceklerde kullanılabilir. Alıç meyvesi, kalp sağlığını destekleyici özellikleriyle de dikkat çeker."
+  },
+  {
+    "input_text": "Soyulmuş ve kurutulmuş doğal elma, sağlıklı ve lezzetli bir atıştırmalık.",
+    "output_text": "Doğal yöntemlerle soyulup kurutulmuş elma dilimleri, lezzetli ve sağlıklı bir atıştırmalık arayanlar için ideal bir seçenektir. Katkı maddesi içermeyen bu ürün, hem düşük kalorili hem de yüksek lif içeriğiyle sindirim sistemini destekler. Tatlı tariflerinde veya doğrudan tüketilerek kullanılabilir."
+  },
+  {
+    "input_text": "Elazığ'a özgü cevizli orciği, doğal kuruyemişlerle hazırlanmış bir atıştırmalık.",
+    "output_text": "Elazığ'ın meşhur cevizli orciği, geleneksel tariflerle doğal kuruyemiş ve üzüm şırasıyla hazırlanmıştır. Hem enerji veren hem de tatlı ihtiyacınızı sağlıklı bir şekilde karşılayan bu ürün, içerdiği ceviz ile omega-3 ve antioksidan açısından zengindir. Hem atıştırmalık olarak hem de misafirlerinize ikram edebileceğiniz lezzetli bir seçenektir."
+  },
+  {
+    "input_text": "Siirt bölgesinin meşhur karakovan petek balı, saf ve doğal bir bal kaynağıdır.",
+    "output_text": "Siirt'in karakovan petek balı, tamamen doğal koşullarda üretilmiş olup katkı maddesi içermez. Doğal enzimler ve mineraller açısından zengin olan bu bal, sağlığınızı desteklerken tatlı ihtiyacınızı da karşılar. Kahvaltılarda, tatlı tariflerinde veya doğrudan tüketilerek kullanılabilir."
+  },
+  {
+    "input_text": "Siirt'in saf karakovan balı, doğallığı ve zengin aromasıyla öne çıkar.",
+    "output_text": "Siirt'in meşhur karakovan balı, saf doğallığı ve kendine has zengin aromasıyla sofralarınızı tatlandırır. Hiçbir katkı maddesi içermeyen bu bal, bağışıklık sistemini güçlendirici ve enerji verici özelliklere sahiptir. Kahvaltılarda, tatlılarda veya içeceklerde kullanılabilir."
+  },
+  {
+    "input_text": "Yüksek antioksidan içeren doğal karadut özü, sağlıklı bir içecek seçeneğidir.",
+    "output_text": "Doğal karadut özü, yüksek antioksidan içeriği ile bağışıklık sistemini destekleyen lezzetli bir içecek seçeneğidir. Şeker ilavesiz olarak hazırlanan bu ürün, hem serinletici bir içecek olarak tüketilebilir hem de tatlılara doğal bir aroma katmak için kullanılabilir."
+  },
+  {
+    "input_text": "Yerli üretim kara mercimek, protein ve lif açısından zengin, doğal bir bakliyat.",
+    "output_text": "Yerli üretim kara mercimek, doğal yollarla üretilmiş, protein ve lif açısından oldukça zengin bir bakliyattır. Sindirimi destekleyen ve uzun süre tok tutan yapısıyla, salatalardan ana yemeklere kadar birçok tarifte kullanılabilir. Vegan ve vejetaryen beslenme için de ideal bir protein kaynağıdır."
+  },
+  {
+    "input_text": "Sarı kantaron yağı içerikli krem seti, doğal cilt bakımına yardımcı olur.",
+    "output_text": "Sarı kantaron yağı içerikli bu krem seti, cildin doğal yapısını destekleyen ve iyileştirici özellikleriyle bilinen bir bakım ürünüdür. Antioksidan ve anti-enflamatuar etkisi sayesinde cildinizi yatıştırır, nemlendirir ve yeniler. Düzenli kullanıldığında cilt sağlığını iyileştirmeye yardımcı olur."
+  },
+  {
+    "input_text": "Geleneksel yöntemlerle üretilen doğal köy yağı, az tuzlu ve katkısızdır.",
+    "output_text": "Doğal köy yağı, geleneksel yöntemlerle katkısız olarak üretilmiş olup hafif tuzlu lezzetiyle kahvaltılarınız ve yemekleriniz için mükemmel bir seçenek sunar. Hem besleyici hem de sağlıklı olan bu köy yağı, doğal bir enerji kaynağıdır."
+  },
+  {
+    "input_text": "Az acılı katıklı ekmek, yöresel lezzet arayanlar için ideal bir seçenek.",
+    "output_text": "Yöresel katıklı ekmek, hafif acılı yapısıyla özellikle farklı lezzetler arayanlar için idealdir. Geleneksel tariflerle hazırlanan bu ekmek, yoğun kıvamı ve doyurucu yapısıyla sofralarınıza farklı bir tat katar. Özellikle kahvaltı sofraları ve meze tabaklarında tercih edilir."
+  },
+  {
+    "input_text": "Kurutulmuş acı biber, mezeler ve yemekler için doğal bir lezzet katıcıdır.",
+    "output_text": "Kurutulmuş acı biber, yemeklerinize ve mezelerinize doğal bir acılık katar. Özellikle et yemekleri, çorbalar ve salatalar için mükemmel bir lezzet artırıcıdır. Geleneksel yöntemlerle kurutulan bu acı biber, yoğun aromasıyla yemeklerinize fark katar."
+  },
+  {
+    "input_text": "Soğuk sıkım yöntemiyle elde edilen asitsiz zeytinyağı, yemeklerinizde doğal bir tat sunar.",
+    "output_text": "Soğuk sıkım yöntemiyle üretilmiş asitsiz zeytinyağı, doğal ve sağlıklı bir yağ seçeneğidir. Yoğun meyvemsi aroması ve düşük asit oranı sayesinde özellikle salatalarda, soslarda ve yemeklerde kullanılabilir. Yüksek antioksidan içeriğiyle vücudu destekler ve kalp sağlığını korur."
+  },
+  {
+    "input_text": "Kabak lifli ve aloe vera içerikli doğal sabun, cilt bakımında sağlıklı bir tercih.",
+    "output_text": "Kabak lifi ve aloe vera özleriyle zenginleştirilmiş bu doğal sabun, cildinizin doğal nem dengesini korurken ölü derilerden arındırır. Kabak lifi, cildinize nazik bir peeling etkisi yaparken aloe vera da cildinizi yatıştırır ve nemlendirir. Cilt hassasiyeti olanlar için de uygun olan bu sabun, tamamen doğal içeriklerle üretilmiştir."
+  },
+  {
+    "input_text": "Kızılcık pestili, geleneksel yöntemlerle üretilmiş sağlıklı bir atıştırmalık.",
+    "output_text": "Geleneksel yöntemlerle hazırlanan kızılcık pestili, doğal meyvelerden elde edilen yoğun lezzetiyle sağlıklı bir enerji kaynağıdır. Katkı maddesi içermeyen bu pestil, tatlı krizlerinizi doğal yollarla giderirken vitamin ve mineraller açısından zengin içeriğiyle sağlığınıza katkı sağlar. Günlük öğünlerde veya spor sonrası tüketilebilir."
+  },
+  {
+    "input_text": "Ev yapımı limon sarımsak kürü, doğal içerikleriyle bağışıklık güçlendirici etkisiyle bilinir.",
+    "output_text": "Ev yapımı limon sarımsak kürü, doğal limon ve sarımsağın birleşimiyle hazırlanmış bir bağışıklık destekleyicisidir. Antioksidanlar açısından zengin bu karışım, özellikle kış aylarında soğuk algınlığına karşı vücudunuzu güçlendirmeye yardımcı olur. Ayrıca sindirimi kolaylaştırıcı etkisiyle de bilinir."
+  },
+  {
+    "input_text": "Salamura yöntemiyle hazırlanan yaprak peynir, sofralarınıza lezzet ve doğallık katar.",
+    "output_text": "Geleneksel salamura yöntemiyle hazırlanan yaprak peynir, taze ve doğal bir peynir deneyimi sunar. Yumuşak dokusu ve zengin aromasıyla kahvaltılardan salatalara kadar birçok yemeğe lezzet katar. İçeriğinde katkı maddesi bulunmayan bu peynir, uzun süre tazeliğini korur."
+  },
+  {
+    "input_text": "Bucak bölgesine özgü hakiki salep, sıcak içecek ve dondurma yapımı için idealdir.",
+    "output_text": "Bucak bölgesinden elde edilen hakiki salep, yoğun aroması ve doğal içeriğiyle sıcak içecek ve dondurma yapımında mükemmel bir seçimdir. Katkısız ve doğal olan bu ürün, soğuk kış günlerinde sıcacık bir içecek olarak keyifli bir tüketim sunar. Geleneksel Türk mutfağının vazgeçilmez bir lezzeti olan salep, doğal kıvamı ve aromasıyla öne çıkar."
+  },
+  {
+    "input_text": "Geleneksel içli köfte, doğal malzemelerle hazırlanan yöresel bir lezzettir.",
+    "output_text": "Doğal ve katkısız malzemelerle hazırlanan geleneksel içli köfte, ince bulgurun et ve baharatlarla birleşiminden oluşan yöresel bir lezzettir. Hem ana yemek hem de meze olarak sofralarda yer bulur. Kendine has baharat karışımı ve lezzetiyle öne çıkan bu köfte, doğal bir protein kaynağıdır."
+  },
+  {
+    "input_text": "Yüksek protein içeriğiyle yerli üretim Tozkoparan nohutu, sağlıklı ve besleyici bir bakliyattır.",
+    "output_text": "Yerli üretim Tozkoparan nohutu, yüksek protein ve lif içeriğiyle sağlıklı ve besleyici bir bakliyat seçeneğidir. Özellikle vejetaryen ve vegan beslenme için ideal bir protein kaynağı olan bu nohut, çorbalardan salatalara birçok tarifte kullanılabilir. Sindirim sistemini destekleyen ve uzun süre tok tutan bu bakliyat, doğal yöntemlerle üretilmiştir."
+  },
+  {
+    "input_text": "Organik domates ve biberlerden yapılan karışık salça, tuzsuz ve katkısızdır.",
+    "output_text": "Organik domates ve biberlerden elde edilen bu karışık salça, doğal lezzetiyle yemeklerinize tat katarken katkısız ve tuzsuz olmasıyla sağlıklı bir tercih sunar. Doğal yöntemlerle üretilmiş bu salça, özellikle sebze yemeklerinde ve soslarda kullanılabilir. Yemeklerinize doğal renk ve aroma katar."
+  },
+  {
+    "input_text": "300 gram organik vişne reçeli, katkı maddesi içermez. Serin yerde saklayın.",
+    "output_text": "Organik vişne reçeli, 300 gramlık kavanozlarda sunulan katkı maddesiz ve doğal bir lezzettir. Tatlı ve ekşi dengesiyle öne çıkan bu reçel, özellikle kahvaltılarınız için mükemmel bir seçimdir. Ürünü tazeliğini korumak için serin bir yerde muhafaza edin."
+  },
+  {
+    "input_text": "500 gram saf kestane balı, doğal olarak üretilmiştir. Soğuk ve kuru ortamda saklayın.",
+    "output_text": "Saf kestane balı, doğal yöntemlerle üretilmiş olup, 500 gramlık ambalajında sunulur. Yoğun ve zengin aromasıyla kahvaltılarınıza eşsiz bir tat katar. Bağışıklık sistemini güçlendiren bu doğal bal, uzun süre taze kalması için soğuk ve kuru bir ortamda saklanmalıdır."
+  },
+  {
+    "input_text": "250 gram doğal zeytinyağlı sabun, cildi besler ve nemlendirir.",
+    "output_text": "Doğal zeytinyağlı sabun, cildinizi besleyerek doğal nem dengesini koruyan bitkisel bir üründür. 250 gramlık formu ile uzun süre kullanılabilir. Hassas ciltler için uygun olan bu sabun, cildinizi derinlemesine temizler ve tazeler."
+  },
+  {
+    "input_text": "Organik kuru kayısı, katkısız ve doğal bir atıştırmalıktır.",
+    "output_text": "Organik kuru kayısı, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru kayısı, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "Organik kuru incir, katkısız ve doğal bir atıştırmalıktır.",
+    "output_text": "Organik kuru incir, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru incir, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "Organik kuru üzüm, katkısız ve doğal bir atıştırmalıktır.",
+    "output_text": "Organik kuru üzüm, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru üzüm, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "Organik kuru erik, katkısız ve doğal bir atıştırmalıktır.",
+    "output_text": "Organik kuru erik, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru erik, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "200 gram organik elma sirkesi, doğal fermantasyon yöntemiyle üretilmiştir.",
+    "output_text": "Organik elma sirkesi, 200 gramlık şişede sunulmakta olup, tamamen doğal fermantasyon yöntemiyle üretilmiştir. Lezzetli ve besleyici bu sirke, özellikle salatalarda kullanmak için mükemmel bir alternatiftir. Sindirimi destekler ve bağışıklık sistemini güçlendirir."
+  },
+  {
+    "input_text": "400 gram glutensiz badem unu, doğal ve katkısız.",
+    "output_text": "Glutensiz badem unu, tamamen doğal ve katkısız olarak üretilmiş olup, 400 gramlık ambalajında sunulmaktadır. Bu ürün, özellikle glütensiz tariflerde sağlıklı bir alternatif sunarak hem tatlılar hem de hamur işlerinde kullanılabilir. Zengin protein ve lif içeriğiyle dikkat çeker."
+  },
+  {
+    "input_text": "250 gram kahvaltılık kakao fındık ezmesi, %100 doğal.",
+    "output_text": "Bu %100 doğal kahvaltılık kakao fındık ezmesi, 250 gramlık kavanozunda sunulmaktadır. İçeriğinde katkı maddesi bulunmayan bu lezzetli fındık ezmesi, zengin kakao tadı ile özellikle kahvaltılarda ve tatlı tariflerinde kullanılmak için idealdir. Sağlıklı bir enerji kaynağıdır."
+  },
+  {
+    "input_text": "100 gram kuru dut, doğal ve katkısız.",
+    "output_text": "Doğal ve katkısız olarak üretilmiş kuru dut, 100 gramlık ambalajında sağlıklı bir atıştırmalık alternatifi sunar. Antioksidanlar açısından zengin olan bu ürün, bağışıklık sistemini destekler ve hafif tatlı tadı ile gün boyunca tüketilebilir."
+  },
+  {
+    "input_text": "500 ml zeytinyağı, soğuk sıkım, organik tarım ürünü.",
+    "output_text": "Organik tarım yöntemleriyle elde edilen bu soğuk sıkım zeytinyağı, 500 ml şişelerde sunulmaktadır. Yoğun meyvemsi aroması ve düşük asit oranı sayesinde hem salatalarda hem de yemeklerde doğal bir lezzet sunar. Antioksidan açısından zengin bu yağ, sağlıklı bir yaşam tarzını destekler."
+  },
+  {
+    "input_text": "300 gram organik nar ekşisi, katkı maddesi içermez.",
+    "output_text": "Organik nar ekşisi, katkı maddesi içermeyen ve tamamen doğal yollarla üretilmiş bir üründür. 300 gramlık ambalajında sunulan bu ekşi sos, özellikle salatalarda ve mezelerde kullanmak için mükemmel bir seçenektir. Narın yoğun aromasıyla zengin bir lezzet sunar."
+  },
+  {
+    "input_text": "150 gram doğal kabak çekirdeği, kavrulmuş.",
+    "output_text": "Doğal olarak kavrulmuş kabak çekirdeği, 150 gramlık ambalajında sağlıklı bir atıştırmalık alternatifi sunar. Lif ve protein açısından zengin olan bu ürün, enerji ihtiyacınızı karşılamak için ideal bir seçenek olup, lezzetli ve doyurucudur."
+  },
+  {
+    "input_text": "200 gram organik kuru incir, katkısız ve doğal.",
+    "output_text": "Organik kuru incir, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru incir, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "250 gram organik kuru üzüm, katkısız ve doğal.",
+    "output_text": "Organik kuru üzüm, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru üzüm, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "300 gram organik kuru kayısı, katkısız ve doğal.",
+    "output_text": "Organik kuru kayısı, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru kayısı, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "200 gram organik kuru erik, katkısız ve doğal.",
+    "output_text": "Organik kuru erik, katkısız ve doğal bir atıştırmalık alternatifidir. Yüksek lif içeriği sayesinde sindirimi destekler ve uzun süre tokluk hissi verir. Aynı zamanda vitamin ve mineral açısından zengin olan bu kuru erik, sağlıklı bir atıştırmalık seçeneğidir."
+  },
+  {
+    "input_text": "750 gram organik çiçek balı, katkı maddesi içermez.",
+    "output_text": "Organik çiçek balı, katkı maddesi içermeyen, saf bir lezzet sunar. 750 gramlık ambalajında sunulan bu doğal bal, kahvaltı sofralarınıza tatlılık katar. Vitamin ve mineraller açısından zengin olup bağışıklık sisteminizi destekler."
+  },
+  {
+    "input_text": "1 litre hindistancevizi yağı, %100 doğal ve soğuk sıkım.",
+    "output_text": "Bu 1 litrelik hindistancevizi yağı, %100 doğal ve soğuk sıkım yöntemiyle elde edilmiştir. Mutfakta yemek pişirme, saç ve cilt bakımında kullanılabilecek çok yönlü bir üründür. Sağlıklı yağ asitleri içeriğiyle cildinizi besler ve saçlarınıza doğal parlaklık katar."
+  },
+  {
+    "input_text": "200 gram doğal kayısı kurusu, katkı maddesi içermez.",
+    "output_text": "Katkı maddesi içermeyen doğal kayısı kurusu, 200 gramlık ambalajında sunulmaktadır. Lezzetli ve besleyici bir atıştırmalık olan bu ürün, yüksek lif içeriği ile sindirim sistemini destekler ve sağlıklı bir enerji kaynağıdır."
+  },
+  {
+    "input_text": "500 gram organik tam buğday unu, katkı maddesi içermez.",
+    "output_text": "Organik tam buğday unu, katkı maddesi içermeyen doğal bir üründür. 500 gramlık ambalajında sunulan bu un, özellikle sağlıklı beslenmeye önem verenler için ideal bir tercihtir. Ekşi mayalı ekmeklerden keklere kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "300 gram kuru yaban mersini, %100 doğal.",
+    "output_text": "Doğal olarak kurutulmuş yaban mersini, %100 katkısız olup, 300 gramlık ambalajında sunulmaktadır. Yüksek antioksidan içeriğiyle bağışıklığı destekler ve sağlıklı atıştırmalık olarak tüketilebilir. Tatlılarda veya yoğurtla birlikte mükemmel bir lezzet sunar."
+  },
+  {
+    "input_text": "250 ml doğal el yapımı kekik yağı, soğuk sıkım yöntemiyle üretilmiştir.",
+    "output_text": "El yapımı kekik yağı, soğuk sıkım yöntemiyle üretilmiş olup, 250 ml şişelerde sunulmaktadır. Yoğun aromasıyla yemeklerinize lezzet katarken, aynı zamanda sağlıklı bir yağ alternatifidir. Bağışıklık sistemini destekleyici ve antiseptik özellikleriyle bilinir."
+  },
+  {
+    "input_text": "150 gram organik chia tohumu, omega-3 açısından zengin.",
+    "output_text": "Organik chia tohumu, 150 gramlık ambalajında sunulmaktadır. Omega-3 yağ asitleri, protein ve lif açısından zengin olan bu tohumlar, smoothie'ler, yoğurtlar ve salatalara eklenerek sağlıklı bir öğün oluşturmanıza yardımcı olur."
+  },
+  {
+    "input_text": "1 kilogram glutensiz kinoa, katkısız ve doğal.",
+    "output_text": "Glutensiz kinoa, tamamen doğal ve katkısız olup, 1 kilogramlık ambalajında sunulmaktadır. Vegan ve glütensiz beslenmeye uygun olan bu ürün, yüksek protein ve lif içeriğiyle sağlıklı beslenmeye önem verenler için mükemmel bir alternatiftir. Salatalarda, pilavlarda ve sebze yemeklerinde kullanabilirsiniz."
+  },
+  {
+    "input_text": "500 gram organik karabuğday unu, glütensiz ve doğal.",
+    "output_text": "Organik karabuğday unu, glütensiz ve tamamen doğal bir üründür. 500 gramlık ambalajında sunulan bu un, glütensiz tariflerde kullanılabilecek sağlıklı bir alternatif olup, yüksek lif ve protein içeriğiyle dikkat çeker. Ekmeklerden keklere kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "400 gram organik yulaf ezmesi, glütensiz ve doğal.",
+    "output_text": "Glütensiz organik yulaf ezmesi, 400 gramlık ambalajında sunulmaktadır. Sağlıklı beslenmeyi destekleyen bu yulaf ezmesi, sindirimi kolaylaştırır ve uzun süre tokluk sağlar. Kahvaltılarda, smoothie’lerde ve atıştırmalık tariflerinde kullanılabilir. Serin ve kuru bir ortamda saklayın."
+  },
+  {
+    "input_text": "750 gram saf organik arı sütü, tamamen katkısız.",
+    "output_text": "Organik saf arı sütü, vitamin ve mineral açısından zengin olup, 750 gramlık ambalajında katkısız olarak sunulmaktadır. Doğal bir enerji kaynağı olan bu ürün, bağışıklık sistemini güçlendirir ve genel sağlığı destekler. Ürünü tazeliğini korumak için serin bir yerde muhafaza edin."
+  },
+  {
+    "input_text": "500 gram glütensiz badem sütü tozu, vegan dostu.",
+    "output_text": "Badem sütü tozu, glütensiz ve vegan dostu olup, 500 gramlık ambalajında sunulmaktadır. İdeal bir süt alternatifi olan bu toz, sağlıklı içecekler ve tarifler hazırlamak için kullanılabilir. Zengin protein ve vitamin içeriği ile dikkat çeker. Serin ve kuru bir yerde saklayın."
+  },
+  {
+    "input_text": "250 gram organik kurutulmuş mango, katkı maddesi içermez.",
+    "output_text": "Katkı maddesi içermeyen organik kurutulmuş mango, 250 gramlık ambalajında sunulmaktadır. Bu doğal atıştırmalık, tropik meyve lezzeti sunarak hem enerji verir hem de bağışıklık sistemini destekler. Özellikle tatlı krizleri için sağlıklı bir alternatif olarak tercih edilebilir."
+  },
+  {
+    "input_text": "1 litre soğuk sıkım avokado yağı, doğal ve katkısız.",
+    "output_text": "Soğuk sıkım yöntemiyle üretilen bu avokado yağı, tamamen doğal olup 1 litrelik şişelerde sunulmaktadır. Yoğun besleyici içeriği sayesinde yemeklerde, salatalarda ve cilt bakımında kullanılabilir. Sağlıklı yağ asitleri içerir ve antioksidan açısından zengindir."
+  },
+  {
+    "input_text": "300 gram saf keçiboynuzu pekmezi, %100 doğal.",
+    "output_text": "Doğal keçiboynuzu pekmezi, 300 gramlık ambalajında %100 katkısız olarak sunulmaktadır. Lezzetli ve enerji verici bu pekmez, tatlılarda veya kahvaltılarda doğal şeker alternatifi olarak kullanılabilir. Yoğun mineral içeriğiyle sağlığı destekler."
+  },
+  {
+    "input_text": "500 gram organik chia tohumu, yüksek lif ve omega-3 içerir.",
+    "output_text": "Organik chia tohumu, 500 gramlık ambalajında sunulmakta olup, omega-3 yağ asitleri ve lif açısından zengin bir gıda seçeneğidir. Sindirimi destekleyici özellikleriyle bilinen bu süper gıda, salatalardan yoğurtlara kadar birçok tarifte kullanılabilir. Serin ve kuru bir yerde saklayın."
+  },
+  {
+    "input_text": "1 kilogram glütensiz badem unu, doğal ve katkısız.",
+    "output_text": "Glütensiz badem unu, tamamen doğal ve katkısız olup 1 kilogramlık ambalajında sunulmaktadır. Sağlıklı tarifler hazırlamak isteyenler için mükemmel bir alternatif sunar. Hamur işlerinde veya tatlılarda kullanabileceğiniz bu un, protein ve lif açısından zengindir."
+  },
+  {
+    "input_text": "250 gram doğal kurutulmuş ananas, katkısız ve glütensiz.",
+    "output_text": "Doğal kurutulmuş ananas, katkı maddesi içermeyen ve glütensiz bir atıştırmalık olarak 250 gramlık ambalajında sunulmaktadır. Tropikal lezzetiyle tatlı krizlerinizi sağlıklı bir şekilde gidermek için idealdir. Serin ve kuru bir ortamda muhafaza edin."
+  },
+  {
+    "input_text": "750 gram organik çam balı, saf ve katkısız.",
+    "output_text": "Organik çam balı, 750 gramlık ambalajında saf ve katkısız olarak sunulmaktadır. Yoğun aromasıyla kahvaltılarınızı tatlandıran bu bal, bağışıklık sistemini güçlendiren doğal bir enerji kaynağıdır. Serin ve karanlık bir yerde saklayarak tazeliğini uzun süre koruyun."
+  },
+  {
+    "input_text": "500 ml soğuk sıkım hindistancevizi yağı, %100 doğal.",
+    "output_text": "Hindistancevizi yağı, soğuk sıkım yöntemiyle elde edilmiş ve %100 doğal içeriklerle sunulmaktadır. 500 ml'lik ambalajında saç, cilt bakımında ve yemek pişirmede kullanılabilecek çok amaçlı bir üründür. Sağlıklı yağ asitleri içeriğiyle dikkat çeker."
+  },
+  {
+    "input_text": "1 kilogram glutensiz organik kinoa, protein ve lif açısından zengin.",
+    "output_text": "Organik kinoa, glütensiz olup 1 kilogramlık ambalajında sunulmaktadır. Yüksek protein ve lif içeriği sayesinde sağlıklı beslenmeyi destekleyen bu süper gıda, salatalarda, pilavlarda ve diğer tariflerde kullanılabilir. Serin ve kuru bir yerde muhafaza edin."
+  },
+  {
+    "input_text": "250 gram organik dut pekmezi, %100 doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Organik dut pekmezi, tamamen doğal yollarla üretilmiş olup, 250 gramlık ambalajında katkısız olarak sunulmaktadır. Yoğun besleyici içeriğiyle enerji veren bu pekmez, kahvaltılarda veya tatlı tariflerinde kullanılabilir. Serin bir yerde muhafaza ederek tazeliğini koruyun."
+  },
+  {
+    "input_text": "1 litre soğuk sıkım üzüm çekirdeği yağı, doğal ve katkısız.",
+    "output_text": "Soğuk sıkım üzüm çekirdeği yağı, tamamen doğal ve katkısız olup, 1 litrelik ambalajında sunulmaktadır. Yüksek antioksidan içeriğiyle yemeklerde kullanılmak için idealdir. Aynı zamanda cilt bakımında da tercih edilebilen bu yağ, serin ve kuru bir yerde saklanmalıdır."
+  },
+  {
+    "input_text": "300 gram organik kavrulmuş fındık, katkısız ve doğal.",
+    "output_text": "Organik kavrulmuş fındık, tamamen katkısız ve doğal olup, 300 gramlık ambalajında sunulmaktadır. Yüksek protein ve sağlıklı yağ içeriği ile enerji verici bir atıştırmalık alternatifi olarak tercih edilebilir. Serin ve kuru bir yerde saklayarak tazeliğini koruyun."
+  },
+  {
+    "input_text": "250 gram doğal kakao tozu, glütensiz ve katkı maddesi içermez.",
+    "output_text": "Doğal kakao tozu, katkı maddesi içermeyen ve glütensiz bir ürün olup, 250 gramlık ambalajında sunulmaktadır. Yoğun çikolata tadı ile özellikle tatlı tariflerinde kullanılmak için idealdir. Serin ve kuru bir yerde saklayarak lezzetini koruyun."
+  },
+  {
+    "input_text": "500 gram organik yeşil mercimek, glütensiz ve katkısız.",
+    "output_text": "Organik yeşil mercimek, glütensiz ve katkısız olarak 500 gramlık ambalajında sunulmaktadır. Yüksek protein ve lif içeriği ile sindirimi destekler ve uzun süre tok tutar. Çorbalardan salatalara kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "1 litre soğuk sıkım susam yağı, doğal ve saf.",
+    "output_text": "Soğuk sıkım susam yağı, tamamen doğal ve saf içeriklerden üretilmiş olup, 1 litrelik ambalajında sunulmaktadır. Yüksek antioksidan ve sağlıklı yağ içeriği sayesinde yemeklerde ve salatalarda kullanılabilir. Serin ve kuru bir ortamda muhafaza edilmelidir."
+  },
+  {
+    "input_text": "250 gram organik kuru çilek, katkı maddesi içermez.",
+    "output_text": "Organik kuru çilek, katkı maddesi içermeyen ve tamamen doğal olan bir atıştırmalık olarak 250 gramlık ambalajında sunulmaktadır. Tropikal meyve lezzeti sunarak enerji verir ve bağışıklık sistemini destekler. Özellikle tatlı krizleri için sağlıklı bir alternatif."
+  },
+  {
+    "input_text": "500 ml doğal organik elma sirkesi, katkısız ve fermente.",
+    "output_text": "Doğal organik elma sirkesi, katkı maddesi içermeyen fermente bir ürün olup, 500 ml'lik ambalajında sunulmaktadır. Sağlıklı bir içecek ve yemeklerde aroma artırıcı olarak kullanılabilir. Serin ve kuru bir yerde saklanmalıdır."
+  },
+  {
+    "input_text": "250 gram organik kabak çekirdeği, glütensiz ve doğal.",
+    "output_text": "Organik kabak çekirdeği, glütensiz ve doğal olup, 250 gramlık ambalajında sunulmaktadır. Yüksek lif ve protein içeriği ile sağlıklı bir atıştırmalık seçeneğidir. Serin ve kuru bir ortamda saklayarak uzun süre tazeliğini koruyun."
+  },
+  {
+    "input_text": "1 kilogram doğal yer fıstığı, glütensiz ve katkı maddesi içermez.",
+    "output_text": "Doğal yer fıstığı, katkı maddesi içermeyen ve glütensiz olup, 1 kilogramlık ambalajında sunulmaktadır. Yüksek protein ve sağlıklı yağlar açısından zengin bu atıştırmalık, enerji verir ve sağlıklı beslenmeyi destekler. Serin ve kuru bir yerde saklayın."
+  },
+  {
+    "input_text": "500 gram organik buğday unu, tamamen katkısız.",
+    "output_text": "Organik buğday unu, 500 gramlık ambalajında tamamen katkısız olarak sunulmaktadır. Ekşi mayalı ekmeklerden tatlılara kadar birçok tarifte kullanılabilen bu doğal un, besin değeri yüksek ve sağlıklı bir seçenektir. Serin ve kuru bir ortamda saklayın."
+  },
+  {
+    "input_text": "200 gram organik kurutulmuş papaya, doğal ve şeker ilavesiz.",
+    "output_text": "Organik kurutulmuş papaya, 200 gramlık ambalajında tamamen doğal ve şeker ilavesiz olarak sunulmaktadır. Tropikal meyve lezzeti sunan bu atıştırmalık, enerji verir ve bağışıklık sistemini destekler. Serin ve kuru bir yerde saklanmalıdır."
+  },
+  {
+    "input_text": "750 ml doğal nar ekşisi, %100 doğal ve katkısız.",
+    "output_text": "Doğal nar ekşisi, tamamen katkısız olup, 750 ml'lik şişelerde sunulmaktadır. Yoğun aroması ve ekşi tadıyla özellikle salatalarda ve mezelerde kullanılabilecek doğal bir üründür. Serin ve kuru bir ortamda muhafaza edilmelidir."
+  },
+  {
+    "input_text": "250 gram organik kuru incir, tamamen doğal ve katkı maddesi içermez.",
+    "output_text": "Organik kuru incir, tamamen doğal ve katkı maddesi içermeyen bir atıştırmalık olarak 250 gramlık ambalajında sunulmaktadır. Yüksek lif ve mineral içeriğiyle sağlıklı beslenmeyi destekler. Serin ve kuru bir yerde muhafaza edin."
+  },
+  {
+    "input_text": "500 gram organik nohut, glütensiz ve katkı maddesi içermez.",
+    "output_text": "Organik nohut, tamamen doğal yollarla üretilmiş olup, 500 gramlık ambalajında glütensiz ve katkısız bir ürün olarak sunulmaktadır. Yüksek protein ve lif içeriğiyle sindirimi destekler ve uzun süre tok tutar. Serin ve kuru bir yerde saklanmalıdır."
+  },
+  {
+    "input_text": "1 kilogram glutensiz karabuğday, doğal ve sağlıklı.",
+    "output_text": "Glütensiz karabuğday, tamamen doğal ve sağlıklı bir ürün olarak 1 kilogramlık ambalajında sunulmaktadır. Yüksek lif ve protein içeriğiyle vegan ve glütensiz beslenme için idealdir. Salatalarda, pilavlarda ve diğer tariflerde kullanılabilir. Serin ve kuru bir yerde saklayın."
+  },
+  {
+    "input_text": "300 gram organik ceviz içi, tamamen katkısız.",
+    "output_text": "Organik ceviz içi, 300 gramlık ambalajında tamamen katkısız olarak sunulmaktadır. Yüksek omega-3 yağ asitleri içeriğiyle sağlıklı bir atıştırmalık olarak tercih edilebilir. Tatlılardan salatalara kadar birçok tarifte kullanılabilir. Serin ve kuru bir yerde saklayın."
+  },
+  {
+    "input_text": "250 ml soğuk sıkım keten tohumu yağı, doğal ve katkı maddesi içermez.",
+    "output_text": "Soğuk sıkım keten tohumu yağı, tamamen doğal ve katkı maddesi içermeyen bir ürün olarak 250 ml'lik ambalajında sunulmaktadır. Yüksek omega-3 yağ asitleri içeriği ile hem yemeklerde hem de cilt bakımında kullanılabilir. Serin ve kuru bir yerde saklanmalıdır."
+  },
+  {
+    "input_text": "200 gram organik kabak çekirdeği içi, glütensiz ve doğal.",
+    "output_text": "Organik kabak çekirdeği içi, 200 gramlık ambalajında glütensiz ve tamamen doğal olarak sunulmaktadır. Yüksek protein ve lif içeriğiyle sağlıklı bir atıştırmalık seçeneğidir. Serin ve kuru bir ortamda muhafaza edilmelidir."
+  },
+  {
+    "input_text": "750 ml organik zeytin yağı, soğuk sıkım ve katkısız.",
+    "output_text": "Organik zeytin yağı, soğuk sıkım yöntemiyle elde edilmiş olup, katkısız ve tamamen doğal olarak 750 ml'lik ambalajında sunulmaktadır. Yemeklerinize yoğun bir lezzet katarken, sağlıklı bir yağ alternatifi sunar. Serin ve kuru bir ortamda saklayın."
+  },
+  {
+    "input_text": "500 gram organik kırmızı mercimek, katkı maddesi içermez.",
+    "output_text": "Organik kırmızı mercimek, tamamen katkısız ve doğal yollarla üretilmiş olup, 500 gramlık ambalajında sunulmaktadır. Yüksek protein ve lif içeriğiyle sindirimi destekleyen bu mercimek, çorbalardan pilavlara kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "1 litre soğuk sıkım badem yağı, %100 doğal.",
+    "output_text": "Soğuk sıkım badem yağı, %100 doğal içeriklerle elde edilmiş olup, 1 litrelik şişelerde sunulmaktadır. Yemek pişirme, cilt ve saç bakımında kullanılabilecek çok yönlü bir üründür. Serin ve kuru bir ortamda saklayın."
+  },
+  {
+    "input_text": "300 gram organik çam fıstığı, tamamen katkısız.",
+    "output_text": "Organik çam fıstığı, 300 gramlık ambalajında tamamen katkısız olarak sunulmaktadır. Yüksek protein ve sağlıklı yağlar içeren bu doğal fıstık, tatlılar ve salatalar için mükemmel bir tamamlayıcıdır. Serin ve kuru bir yerde saklanmalıdır."
+  },
+  {
+    "input_text": "400 gram organik keçi peyniri, katkı maddesi içermez.",
+    "output_text": "Organik keçi peyniri, katkı maddesi içermeyen tamamen doğal bir ürün olup, 400 gramlık ambalajında sunulmaktadır. Yoğun aromasıyla kahvaltılarda ve salatalarda kullanılabilecek besleyici bir seçenektir. Serin bir yerde saklayın."
+  },
+  {
+    "input_text": "500 gram şeftali reçeli, yüzde 100 doğal. Kapağını açtıktan sonra buzdolabında saklayın.",
+    "output_text": "%100 doğal şeftali reçeli, 500g’lık kavanozlarda mevcuttur ve katkı maddesi içermez, saf meyve lezzeti sunar. Ürünün tazeliğini sağlamak için kapağı açıldıktan sonra buzdolabında saklayın. Kahvaltıda veya tatlılar için kullanabilirsiniz."
+  },
+  {
+    "input_text": "300 gram incir reçeli, yüzde 100 doğal. Kapağını açtıktan sonra buzdolabında saklayın.",
+    "output_text": "%100 doğal incir reçeli, 500g’lık kavanozlarda mevcuttur ve katkı maddesi içermez, saf meyve lezzeti sunar. Ürünün tazeliğini sağlamak için kapağı açıldıktan sonra buzdolabında saklayın. Kahvaltıda veya tatlılar için kullanabilirsiniz."
+  },
+  {
+    "input_text": "500 gram çilek reçeli, yüzde 100 doğal. Kapağını açtıktan sonra buzdolabında saklayın.",
+    "output_text": "%100 doğal çilek reçeli, 500g’lık kavanozlarda mevcuttur ve katkı maddesi içermez, yoğun meyve tadı sunar. Tazeliğini korumak için kapağı açıldıktan sonra buzdolabında saklayın. Kahvaltıda ya da tatlılar için ideal bir lezzet."
+  },
+  {
+    "input_text": "400 gram vişne reçeli, tamamen doğal içerikler. Kapağı açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Tamamen doğal vişne reçeli, 400g’lık kavanozlarda sunulur ve katkı maddesi içermez. Saf vişne tadı ile kahvaltılarda veya tatlılarda keyifle tüketilebilir. Kapağı açıldıktan sonra buzdolabında muhafaza ederek tazeliğini koruyun."
+  },
+  {
+    "input_text": "350 gram kayısı reçeli, yüzde 100 doğal. Kapağı açtıktan sonra buzdolabında saklayın.",
+    "output_text": "%100 doğal kayısı reçeli, 350g’lık ambalajda sunulmakta olup katkı maddesi içermez. Saf kayısı lezzetiyle sofralarınıza tat katar. Ürünün tazeliği için kapağı açtıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "450 gram portakal reçeli, doğal içeriklerle üretilmiştir. Serin yerde saklayın.",
+    "output_text": "Doğal portakal reçeli, 450g’lık kavanozlarda sunulmakta ve katkı maddesi içermez. Yoğun narenciye tadıyla kahvaltılar ve tatlılar için ideal bir seçenektir. Serin bir yerde saklayın, kapağı açıldıktan sonra buzdolabında muhafaza edin."
+  },
+  {
+    "input_text": "600 gram böğürtlen reçeli, tamamen doğal. Kapağı açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Bu %100 doğal böğürtlen reçeli, 600g’lık kavanozlarda sunulmaktadır. Katkı maddesi içermez, saf ve doğal böğürtlen tadı sunar. Ürünün tazeliğini korumak için kapağı açtıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "250 gram kuşburnu marmelatı, yüzde 100 doğal. Kapağı açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "%100 doğal kuşburnu marmelatı, katkı maddesi içermeyen 250g’lık ambalajında sunulmaktadır. Saf meyve tadı ile kahvaltılarınızı zenginleştirir. Kapağı açıldıktan sonra ürünü buzdolabında muhafaza edin."
+  },
+  {
+    "input_text": "300 gram elma reçeli, tamamen doğal içeriklerle üretilmiştir. Kapağı açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Tamamen doğal elma reçeli, katkı maddesi içermeyen 300g’lık kavanozlarda sunulmaktadır. Taze elma tadı ile kahvaltılara ve tatlılara lezzet katarken, ürünü kapağı açtıktan sonra buzdolabında muhafaza edin."
+  },
+  {
+    "input_text": "400 gram armut reçeli, yüzde 100 doğal. Serin bir yerde saklayın.",
+    "output_text": "%100 doğal armut reçeli, 400g’lık kavanozlarda sunulmakta olup katkı maddesi içermez. Saf armut tadı ile kahvaltı ve tatlılar için sağlıklı bir alternatiftir. Ürünün tazeliğini korumak için serin bir yerde saklayın."
+  },
+  {
+    "input_text": "500 gram erik reçeli, tamamen doğal içerikler. Kapağı açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "Tamamen doğal erik reçeli, 500g’lık ambalajında sunulmaktadır. Katkı maddesi içermez ve yoğun erik tadı sunar. Tazeliğini korumak için kapağı açıldıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "350 gram karadut reçeli, yüzde 100 doğal. Kapağı açıldıktan sonra buzdolabında saklayın.",
+    "output_text": "%100 doğal karadut reçeli, 350g’lık kavanozlarda sunulmakta olup katkı maddesi içermez. Doğal karadut aromasıyla tatlılarınızı ve kahvaltılarınızı zenginleştirir. Tazeliği korumak için kapağı açtıktan sonra buzdolabında saklayın."
+  },
+  {
+    "input_text": "500 gram Ezine Peyniri, Çanakkale'den özel vakumlu ambalajda gönderilir.",
+    "output_text": "Çanakkale'nin meşhur Ezine Peyniri, 500g'lık özel vakumlu ambalajıyla tazeliğini korur ve Türkiye'nin her yerine güvenle kargolanabilir. Kahvaltılar ve sofralarınız için eşsiz bir lezzet."
+  },
+  {
+    "input_text": "1 kilogram Gemlik Zeytini, Bursa'dan vakumlu paket içinde kargo ile gönderilir.",
+    "output_text": "Bursa Gemlik zeytinleri, 1 kg'lık vakumlu paketinde taze ve katkısız olarak sofralarınıza ulaşır. Türkiye geneline güvenli kargo imkanı sunar."
+  },
+  {
+    "input_text": "300 gram Balıkesir Höşmerim Tatlısı, kutusunda paketlenmiş halde gönderilir.",
+    "output_text": "Balıkesir'in geleneksel Höşmerim tatlısı, 300g'lık özel kutusunda paketlenip kargo ile güvenle gönderilir. Taze ve dayanıklı bu tatlı, tatlı krizlerinizi anında karşılar."
+  },
+  {
+    "input_text": "500 gram Tulum Peyniri, İzmir'den vakumlu ambalajda kargoya uygundur.",
+    "output_text": "İzmir yöresine ait Tulum Peyniri, 500g'lık vakumlu ambalajında sunulmaktadır. Bu peynir, dayanıklı ambalajı sayesinde tazeliğini koruyarak güvenle kargolanabilir."
+  },
+  {
+    "input_text": "750 gram Kekik Balı, Muğla'dan cam kavanozda gönderilir.",
+    "output_text": "Muğla’nın doğal kekik balı, 750g’lık cam kavanozlarda taze olarak paketlenip kargoya verilir. Katkısız ve saf bal lezzeti sofralarınıza güvenle ulaşır."
+  },
+  {
+    "input_text": "1 litre Zeytinyağı, Aydın'dan cam şişe içinde kargolanabilir.",
+    "output_text": "Aydın'ın zeytinlerinden elde edilen soğuk sıkım zeytinyağı, 1 litrelik cam şişede paketlenmiş olup, güvenli bir şekilde kargo ile Türkiye’nin her yerine gönderilebilir."
+  },
+  {
+    "input_text": "500 gram Kuymak Peyniri, Karadeniz'den vakumlu paket içinde gönderilir.",
+    "output_text": "Karadeniz’in geleneksel kuymak peyniri, 500g’lık vakumlu paketinde tazeliğini koruyarak kargoya uygundur. Kuymak yapmak için mükemmel bir peynir tercihi."
+  },
+  {
+    "input_text": "1 kilogram fındık, Ordu'dan vakumlu paketle kargoya verilir.",
+    "output_text": "Ordu’nun kaliteli fındıkları, 1 kg’lık vakumlu ambalajında tazeliğini koruyarak gönderilir. Sağlıklı atıştırmalık olarak her öğünde tercih edilebilir."
+  },
+  {
+    "input_text": "400 gram Kavurma, Kayseri'den vakumlu ambalajda kargo ile gönderilir.",
+    "output_text": "Kayseri'nin meşhur kavurması, 400g'lık vakumlu ambalajında tazeliğini uzun süre korur ve Türkiye geneline güvenle kargolanabilir."
+  },
+  {
+    "input_text": "500 gram Antakya Künefesi, Hatay'dan dondurulmuş şekilde gönderilir.",
+    "output_text": "Antakya'nın ünlü künefesi, 500g'lık dondurulmuş paketlerde taze şekilde Türkiye’nin her yerine kargolanabilir. Fırında pişirip hazır edebilirsiniz."
+  },
+  {
+    "input_text": "350 gram Bergamot Reçeli, Mersin'den cam kavanoz içinde gönderilir.",
+    "output_text": "Mersin’in doğal bergamot reçeli, 350g’lık cam kavanozda sunulmakta olup, dayanıklı ambalajı sayesinde güvenle kargolanabilir."
+  },
+  {
+    "input_text": "1 kilogram Van Otlu Peyniri, vakumlu ambalajda kargoya uygun.",
+    "output_text": "Van'ın yöresel otlu peyniri, 1 kg’lık vakumlu ambalajında kargoya dayanıklı şekilde paketlenmiştir. Bu özel peynir, sofralarınıza doğal ve katkısız lezzet getirir."
+  },
+  {
+    "input_text": "750 gram Kars Kaşarı, Kars'tan vakumlu ambalajla gönderilebilir.",
+    "output_text": "Kars kaşarı, 750g'lık vakumlu ambalajında tazeliğini koruyarak Türkiye'nin her bölgesine güvenle kargolanabilir. Geleneksel lezzet, sofralarınıza doğal haliyle ulaşır."
+  },
+  {
+    "input_text": "1 kilogram Şanlıurfa İsot Biberi, kurutulmuş haliyle paketlenir.",
+    "output_text": "Şanlıurfa’nın isot biberi, 1 kg’lık kurutulmuş ve paketlenmiş haliyle kargoya uygundur. Doğal ve katkısız bu biber, yemeklerinize eşsiz bir aroma katacaktır."
+  },
+  {
+    "input_text": "750 ml Kırklareli Hardaliye, şişelerde gönderime uygundur.",
+    "output_text": "Kırklareli'nin geleneksel içeceği Hardaliye, üzüm, hardal tohumu ve vişne yaprağından yapılan 750 ml'lik şişelerde sunulmaktadır. Dayanıklı cam şişe ambalajıyla kargoya uygundur ve Türkiye’nin her yerine gönderilebilir."
+  },
+  {
+    "input_text": "500 gram Edirne Beyaz Peyniri, vakumlu ambalajda gönderilebilir.",
+    "output_text": "Edirne'nin meşhur beyaz peyniri, 500 gramlık vakumlu ambalajında tazeliğini uzun süre korur. Dayanıklı ambalajı sayesinde Türkiye’nin her köşesine güvenle kargolanabilir."
+  },
+  {
+    "input_text": "1 kilogram Yalova Kıvırcık Zeytini, vakumlu paket ya da cam kavanozda gönderime uygundur.",
+    "output_text": "Yalova'nın ünlü kıvırcık zeytinleri, 1 kg'lık vakumlu paketlerde ya da cam kavanozlarda sunulmakta olup, tazeliğini uzun süre korur ve kargoya dayanıklıdır."
+  },
+  {
+    "input_text": "500 gram Kuru İncir, Aydın'dan paketlenmiş haliyle kargo ile gönderilir.",
+    "output_text": "Aydın'ın meşhur kuru incirleri, 500g'lık ambalajlarda paketlenmiş ve kargoya uygun olarak sunulmaktadır. Dayanıklı ve doğal bir atıştırmalık olarak her yere güvenle gönderilebilir."
+  },
+  {
+    "input_text": "1 adet Çeşme Kavunu, özel ambalajında taşınmaya uygundur.",
+    "output_text": "Çeşme'nin ünlü kavunu, özel ambalajıyla taşınmaya uygun şekilde paketlenir ve kargoya verilir. Taze ve doğal kavun lezzeti sofralarınıza güvenle ulaşır."
+  },
+  {
+    "input_text": "350 gram Bozdağ Kestane Şekeri, kavanoz ya da kutu içinde kargoya uygundur.",
+    "output_text": "Bozdağ’ın lezzetli kestane şekeri, 350g'lık kavanoz veya kutu ambalajında sunulmaktadır. Dayanıklı ve taze şekilde kargoya verilebilir."
+  },
+  {
+    "input_text": "200 gram Bergama Çam Fıstığı, kurutulmuş ve paketlenmiş olarak gönderime uygundur.",
+    "output_text": "Bergama'dan gelen doğal çam fıstıkları, 200g'lık ambalajlarda kurutulmuş ve paketlenmiş halde kargoya uygun şekilde sunulmaktadır."
+  },
+  {
+    "input_text": "250 gram Çaykur Çayı, Rize'den paketlenmiş haliyle kargoya uygundur.",
+    "output_text": "Rize’nin ünlü Çaykur çayı, 250g'lık paketlerde sunulmakta olup, taşımaya dayanıklı ambalajıyla güvenle kargoya verilir."
+  },
+  {
+    "input_text": "400 gram Fındık Ezmesi, Ordu'dan cam kavanozda gönderime uygundur.",
+    "output_text": "Ordu’nun meşhur fındık ezmesi, 400g'lık cam kavanozlarda paketlenmiş ve kargoya uygun olarak sunulmaktadır. Tatlı ve sağlıklı bir atıştırmalık olarak her yere gönderilebilir."
+  },
+  {
+    "input_text": "500 gram Laz Böreği, özel kutusunda taze olarak kargoya verilir.",
+    "output_text": "Karadeniz’in ünlü şerbetli tatlısı Laz böreği, 500g’lık özel kutularda taze şekilde kargoya verilebilir. Dayanıklı ambalajı sayesinde Türkiye’nin her yerine güvenle ulaşır."
+  },
+  {
+    "input_text": "1 kilogram Kuru Kayısı, Malatya'dan paketlenmiş halde kargoya uygundur.",
+    "output_text": "Malatya’nın ünlü kuru kayısıları, 1 kg’lık ambalajlarda paketlenmiş olup dayanıklı bir şekilde kargoya verilmeye uygundur. Doğal ve sağlıklı atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "500 gram Divle Obruk Peyniri, vakumlu ambalajda kargoya uygundur.",
+    "output_text": "Karaman’ın mağaralarda olgunlaştırılan Divle Obruk peyniri, 500g’lık vakumlu ambalajında tazeliğini koruyarak kargoya dayanıklıdır."
+  },
+  {
+    "input_text": "750 gram Kayseri Mantısı, kurutulmuş ve paketlenmiş halde gönderime uygundur.",
+    "output_text": "Kayseri’nin geleneksel mantısı, 750g'lık paketlerde kurutulmuş haliyle kargoya uygundur. Uzun süre tazeliğini korur ve kolayca taşınabilir."
+  },
+  {
+    "input_text": "500 gram Mersin Cezeryesi, kutu içerisinde taşımaya uygundur.",
+    "output_text": "Mersin’in ünlü cezeryesi, 500g’lık özel kutusunda sunulmakta olup kargo ile güvenle gönderilebilir. Havuç, ceviz veya fındık içeren bu tatlı uzun süre tazeliğini korur."
+  },
+  {
+    "input_text": "750 gram Toros Balı, cam kavanozda gönderime uygundur.",
+    "output_text": "Toros dağlarının doğal balı, 750g’lık cam kavanozda paketlenerek güvenle kargo ile Türkiye’nin her yerine gönderilebilir."
+  },
+  {
+    "input_text": "300 gram Isparta Gül Reçeli, kavanoz içinde kargoya uygundur.",
+    "output_text": "Isparta'nın meşhur gül reçeli, 300g'lık kavanozlarda paketlenmiş olup dayanıklı bir şekilde kargoya verilmeye uygundur. Kahvaltılara eşsiz bir tat katar."
+  },
+  {
+    "input_text": "500 gram Erzincan Tulum Peyniri, vakumlu ambalajda kargolanabilir.",
+    "output_text": "Erzincan’ın ünlü tulum peyniri, 500g’lık vakumlu ambalajında taze ve dayanıklı şekilde kargoya verilebilir."
+  },
+  {
+    "input_text": "250 gram Kuru Dut, Elazığ’dan paketlenmiş olarak gönderime uygundur.",
+    "output_text": "Elazığ'ın kurutulmuş dutları, 250g'lık ambalajlarda paketlenmiş olup taşınmaya dayanıklıdır ve güvenle kargolanabilir."
+  },
+  {
+    "input_text": "1 kilogram Siirt Fıstığı, paketlenmiş halde kargoya uygundur.",
+    "output_text": "Siirt’in ünlü fıstıkları, 1 kg'lık paketlerde sunulmakta olup, tazeliğini koruyarak güvenli bir şekilde kargoya verilmeye uygundur."
+  },
+  {
+    "input_text": "100 gram Kilis Zahter Baharatı, kurutulmuş ve paketlenmiş haliyle kargolanabilir.",
+    "output_text": "Kilis’in zahter baharatı, 100g’lık kurutulmuş ve paketlenmiş haliyle kargoya dayanıklıdır. Doğal aromasıyla yemeklerinize lezzet katar."
+  },
+  {
+    "input_text": "500 gram Konya Çörek Otu, paketlenmiş halde kargoya uygundur.",
+    "output_text": "Konya’nın çörek otu, 500g’lık paketlerde sunulmakta olup, tazeliğini koruyarak güvenle kargoya verilmeye uygundur. Doğal ve sağlıklı bir baharat seçeneği."
+  },
+  {
+    "input_text": "500 gram İçli Köfte, dondurulmuş veya pişirilmiş olarak kargo ile gönderilebilir.",
+    "output_text": "İçli köfte, bulgur ve kıyma ile yapılan lezzetli bir yöresel üründür. 500 gramlık paketlerde dondurulmuş ya da pişirilmiş halde güvenle kargoya verilebilir. Türk mutfağının vazgeçilmez lezzetlerinden biridir."
+  },
+  {
+    "input_text": "300 gram Adana Çöreği, özel paketlerde taze veya kurutulmuş olarak gönderilir.",
+    "output_text": "Adana'nın baharatlı ve susamlı ekmek çeşidi Adana çöreği, 300 gramlık özel paketlerde sunulmakta ve taze ya da kurutulmuş olarak kargoya uygun şekilde gönderilebilir. Kahvaltılarda veya atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "400 gram Adana Mantı, dondurulmuş veya kurutulmuş olarak kargoya uygundur.",
+    "output_text": "İnce hamurla hazırlanan Adana mantısı, 400 gramlık paketlerde dondurulmuş ya da kurutulmuş halde kargoya verilebilir. Geleneksel bir lezzet olan mantı, özellikle yoğurtla servis edildiğinde harika bir tat sunar."
+  },
+  {
+    "input_text": "500 ml Adana Şalgamı, şişelerde kargo ile gönderilebilir.",
+    "output_text": "Adana'nın geleneksel içeceği şalgam, 500 ml'lik şişelerde paketlenmiş olup güvenle kargo ile gönderilebilir. Ferahlatıcı ve ekşi tadıyla yemeklerin yanında mükemmel bir eşlikçi."
+  },
+  {
+    "input_text": "250 gram Adana Beyaz Peynir, vakumlu ambalajlarda gönderilir.",
+    "output_text": "Yerel sütle yapılan Adana beyaz peyniri, 250 gramlık vakumlu ambalajlarda tazeliğini koruyarak kargoya uygun şekilde gönderilebilir. Kahvaltılarda ve mezelerde kullanılabilecek lezzetli bir alternatif."
+  },
+  {
+    "input_text": "200 gram Cezerye, kutularda veya ambalajlı olarak gönderilebilir.",
+    "output_text": "Havuç ve ceviz ile yapılan cezerye, 200 gramlık kutularda veya ambalajlı olarak güvenle kargoya verilebilir. Tatlı krizlerinizi doğal bir şekilde giderecek harika bir atıştırmalık."
+  },
+  {
+    "input_text": "300 gram Adana Pestili, paketlenerek kargoya uygun hale getirilebilir.",
+    "output_text": "Kuru meyve ve fındıkla yapılan Adana pestili, 300 gramlık paketlerde sunulmakta olup kargoya uygun şekilde hazırlanarak güvenle gönderilebilir. Hem lezzetli hem de sağlıklı bir atıştırmalık alternatifi."
+  },
+  {
+    "input_text": "200 gram zeytinyağlı biber turşusu, tamamen doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Zeytinyağlı biber turşusu, doğal ve katkısız malzemelerle hazırlanmış 200 gramlık sağlıklı bir atıştırmalık alternatifi sunar. Her türlü yemeğin yanında lezzet katmak için ideal. Kapağı açıldıktan sonra buzdolabında muhafaza edilmelidir."
+  },
+  {
+    "input_text": "300 gram ev yapımı elma sirkesi, katkısız ve doğal bir üründür.",
+    "output_text": "Katkı maddesi içermeyen el yapımı elma sirkesi, 300 gramlık ambalajda sunulmakta olup, doğal fermantasyon yöntemiyle üretilmiştir. Özellikle salatalarda ve yemeklerde kullanabileceğiniz bu ürün, sindirimi destekler ve bağışıklık sisteminizi güçlendirir."
+  },
+  {
+    "input_text": "400 gram organik çam fıstığı, tamamen doğal ve katkısızdır.",
+    "output_text": "Organik çam fıstığı, 400 gramlık ambalajında tamamen doğal ve katkı maddesi içermeyen sağlıklı bir atıştırmalık olarak sunulmaktadır. Yoğun lezzetiyle tatlılarınızda ya da salatalarınızda kullanabilirsiniz."
+  },
+  {
+    "input_text": "150 gram incir kurusu, güneşte kurutulmuş doğal bir atıştırmalık.",
+    "output_text": "Tamamen güneşte kurutulmuş incirler, sağlıklı bir atıştırmalık olarak 150 gramlık ambalajda sunulmaktadır. Lif açısından zengin olup, enerji ihtiyacınızı karşılayacak doğal bir lezzet sunar."
+  },
+  {
+    "input_text": "250 gram acı biber salçası, organik olarak üretilmiştir.",
+    "output_text": "Acı biber salçası, organik tarımla elde edilen biberlerden üretilmiş olup, katkı maddesi içermez. 250 gramlık ambalajında yoğun aromasıyla yemeklerinize tat katar."
+  },
+  {
+    "input_text": "500 gram bal kabağı reçeli, tamamen doğal içeriklerle üretilmiştir.",
+    "output_text": "Bu doğal bal kabağı reçeli, katkı maddesi içermez ve tamamen doğal malzemelerden üretilmiştir. 500 gramlık ambalajda sunulan bu reçel, kahvaltılarınızda veya tatlılarınızda doğal bir lezzet sunar."
+  },
+  {
+    "input_text": "300 gram organik kurutulmuş muz, katkı maddesi içermeyen sağlıklı bir atıştırmalık.",
+    "output_text": "Organik olarak üretilen ve katkı maddesi içermeyen kurutulmuş muz, 300 gramlık ambalajında sağlıklı bir atıştırmalık sunar. Hafif tatlı lezzetiyle gün boyu enerji sağlar."
+  },
+  {
+    "input_text": "250 gram nar pekmezi, %100 doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Nar pekmezi, %100 doğal içeriklerle üretilmiş olup, katkı maddesi içermez. 250 gramlık ambalajında sunulmaktadır ve tatlılarda doğal tatlandırıcı olarak kullanılabilir."
+  },
+  {
+    "input_text": "500 gram kepekli ekmek, doğal malzemelerle üretilmiştir.",
+    "output_text": "Bu kepekli ekmek, tamamen doğal malzemelerle hazırlanmış olup, sağlıklı ve doyurucu bir seçenek sunar. 500 gramlık ambalajında sunulan bu ekmek, özellikle kahvaltılarda tercih edilebilir."
+  },
+  {
+    "input_text": "200 gram doğal keçiboynuzu unu, katkı maddesi içermez.",
+    "output_text": "Keçiboynuzu unu, doğal yollarla üretilmiş olup katkı maddesi içermez. 200 gramlık ambalajında sunulan bu un, sağlıklı tarifler için ideal bir alternatiftir."
+  },
+  {
+    "input_text": "350 gram organik ayva reçeli, %100 katkısız.",
+    "output_text": "Organik ayva reçeli, katkı maddesi içermeyen doğal bir ürün olup, 350 gramlık kavanozda sunulmaktadır. Kahvaltılarda taze ve sağlıklı bir lezzet sunar."
+  },
+  {
+    "input_text": "250 gram ev yapımı çilek marmelatı, katkısız ve doğal.",
+    "output_text": "Ev yapımı çilek marmelatı, %100 doğal malzemelerle hazırlanmış olup, katkı maddesi içermez. 250 gramlık ambalajında sunulmaktadır ve kahvaltılarda kullanmak için idealdir."
+  },
+  {
+    "input_text": "1 kilogram doğal kuru kayısı, tamamen katkısız.",
+    "output_text": "Tamamen katkısız olan kuru kayısı, 1 kilogramlık ambalajında sunulmaktadır. Sağlıklı bir atıştırmalık olarak enerji verir ve lif açısından zengindir."
+  },
+  {
+    "input_text": "750 gram doğal erik marmelatı, katkı maddesi içermez.",
+    "output_text": "Bu %100 doğal erik marmelatı, katkı maddesi içermeyen sağlıklı bir alternatiftir. 750 gramlık ambalajında sunulmakta olup, kahvaltılarda veya tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "300 gram organik kuşburnu çayı, %100 doğal içeriklerle üretilmiştir.",
+    "output_text": "Organik kuşburnu çayı, %100 doğal içeriklerden üretilmiştir ve katkı maddesi içermez. 300 gramlık ambalajında sunulan bu çay, kış aylarında bağışıklığı desteklemek için ideal bir içecektir."
+  },
+  {
+    "input_text": "250 gram badem ezmesi, doğal ve katkı maddesi içermez.",
+    "output_text": "Bu %100 doğal badem ezmesi, katkı maddesi içermeyen bir üründür ve 250 gramlık ambalajda sunulmaktadır. Kahvaltıda veya tatlılarda kullanılabilecek sağlıklı bir alternatiftir."
+  },
+  {
+    "input_text": "500 gram glutensiz makarna, tamamen doğal malzemelerden üretilmiştir.",
+    "output_text": "Glutensiz makarna, doğal ve katkısız malzemelerle hazırlanmış olup, 500 gramlık ambalajında sunulmaktadır. Özellikle glüten intoleransı olanlar için sağlıklı bir seçenektir."
+  },
+  {
+    "input_text": "1 litre organik nar suyu, katkısız ve doğal.",
+    "output_text": "Organik nar suyu, tamamen doğal malzemelerle üretilmiş olup katkı maddesi içermez. 1 litrelik şişelerde sunulan bu içecek, bağışıklık sistemini destekler ve lezzetli bir alternatiftir."
+  },
+  {
+    "input_text": "250 gram kuru üzüm, doğal ve katkısız bir atıştırmalık.",
+    "output_text": "Katkı maddesi içermeyen kuru üzüm, doğal bir atıştırmalık olarak 250 gramlık ambalajda sunulmaktadır. Sağlıklı ve lezzetli bir alternatif olup enerji verir."
+  },
+  {
+    "input_text": "1 kilogram organik ceviz içi, %100 doğal yollarla üretilmiştir.",
+    "output_text": "Organik ceviz içi, %100 doğal yollarla üretilmiş olup, katkı maddesi içermez. 1 kilogramlık ambalajında sunulan bu ürün, sağlıklı atıştırmalık olarak tüketilebilir."
+  },
+  {
+    "input_text": "500 gram organik bulgur, katkı maddesi içermeyen doğal bir bakliyat.",
+    "output_text": "Organik bulgur, katkı maddesi içermeyen doğal bir üründür. 500 gramlık ambalajında sunulmakta olup, salatalardan pilavlara kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "350 gram organik nar ekşisi, tamamen katkısız.",
+    "output_text": "Organik nar ekşisi, %100 doğal yollarla üretilmiş olup katkı maddesi içermez. 350 gramlık ambalajında sunulan bu ürün, özellikle salatalarda lezzetli bir sos olarak kullanılır."
+  },
+  {
+    "input_text": "400 gram organik armut reçeli, tamamen doğal ve katkısız.",
+    "output_text": "Bu organik armut reçeli, katkı maddesi içermeyen tamamen doğal bir üründür. 400 gramlık ambalajda sunulmakta olup, sofralarınıza taze bir tat katmaktadır."
+  },
+  {
+    "input_text": "500 gram organik tam buğday ekmeği, katkısız ve doğal bir üründür.",
+    "output_text": "Organik tam buğday ekmeği, %100 katkısız malzemelerle hazırlanmış olup, 500 gramlık ambalajında sunulmaktadır. Sağlıklı bir alternatif olarak sofralarınızda yer alabilir."
+  },
+  {
+    "input_text": "300 gram doğal gül reçeli, katkı maddesi içermez.",
+    "output_text": "Doğal gül reçeli, katkı maddesi içermeyen tamamen doğal malzemelerle üretilmiştir. 300 gramlık kavanozda sunulmakta olup, kahvaltılarda ve tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "500 gram doğal çavdar unu, tamamen katkısızdır.",
+    "output_text": "Doğal çavdar unu, katkı maddesi içermeyen tamamen doğal bir üründür. 500 gramlık ambalajda sunulmaktadır ve ekmek yapımında kullanılmak için idealdir."
+  },
+  {
+    "input_text": "250 gram el yapımı bergamot reçeli, %100 doğal içeriklerle üretilmiştir.",
+    "output_text": "Bergamot reçeli, tamamen el yapımı olup, %100 doğal içeriklerle üretilmiştir. 250 gramlık kavanozda sunulmakta olup, tatlı ve aromatik bir lezzet sunar."
+  },
+  {
+    "input_text": "200 gram doğal zeytin ezmesi, katkı maddesi içermez.",
+    "output_text": "Doğal zeytin ezmesi, katkı maddesi içermeyen tamamen doğal bir üründür. 200 gramlık ambalajında sunulmakta olup, kahvaltılarda ve yemeklerde kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik yulaf ezmesi, tamamen doğal içeriklerden üretilmiştir.",
+    "output_text": "Organik yulaf ezmesi, katkı maddesi içermeyen doğal bir üründür. 500 gramlık ambalajda sunulmakta olup, kahvaltılarda ve atıştırmalık tariflerde kullanılabilir."
+  },
+  {
+    "input_text": "300 gram organik çilek reçeli, katkı maddesi içermez.",
+    "output_text": "Bu %100 doğal çilek reçeli, katkı maddesi içermeyen organik bir üründür. 300 gramlık ambalajda sunulmaktadır ve kahvaltılarda ya da tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "200 gram organik hindistancevizi tozu, tamamen doğal bir üründür.",
+    "output_text": "Organik hindistancevizi tozu, katkı maddesi içermeyen doğal bir ürün olup, 200 gramlık ambalajında sunulmaktadır. Keklerden smoothielere kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "500 gram fındık kreması, %100 doğal malzemelerle üretilmiştir.",
+    "output_text": "Fındık kreması, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 500 gramlık kavanozda sunulmaktadır ve kahvaltılarda sağlıklı bir alternatif olarak kullanılabilir."
+  },
+  {
+    "input_text": "250 gram acı biber sosu, tamamen doğal malzemelerle üretilmiştir.",
+    "output_text": "Acı biber sosu, %100 doğal malzemelerle üretilmiş olup katkı maddesi içermez. 250 gramlık ambalajında sunulmaktadır ve yemeklerinize lezzet katar."
+  },
+  {
+    "input_text": "1 litre organik elma sirkesi, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Bu organik elma sirkesi, %100 doğal yollarla üretilmiş olup katkı maddesi içermez. 1 litrelik şişesinde sunulmakta olup, yemeklerde ve salatalarda kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik kuru kayısı, tamamen doğal yollarla üretilmiştir.",
+    "output_text": "Organik kuru kayısı, katkı maddesi içermeyen tamamen doğal bir üründür. 500 gramlık ambalajda sunulmakta olup, sağlıklı bir atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "300 gram doğal fındık ezmesi, katkı maddesi içermez.",
+    "output_text": "Bu doğal fındık ezmesi, katkı maddesi içermeyen tamamen doğal bir üründür. 300 gramlık ambalajda sunulmakta olup, kahvaltılarda ya da tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "250 gram ev yapımı elma cipsi, tamamen doğal.",
+    "output_text": "Ev yapımı elma cipsi, katkı maddesi içermeyen tamamen doğal bir üründür. 250 gramlık ambalajda sunulmakta olup, sağlıklı bir atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "400 gram ev yapımı incir reçeli, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Bu ev yapımı incir reçeli, tamamen doğal malzemelerle üretilmiş olup, katkı maddesi içermez. 400 gramlık kavanozda sunulmakta olup, kahvaltılarda ya da tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik susam yağı, %100 doğal yollarla üretilmiştir.",
+    "output_text": "Organik susam yağı, %100 doğal yollarla üretilmiş olup katkı maddesi içermez. 500 gramlık ambalajında sunulmakta olup, yemeklerde kullanılmak için idealdir."
+  },
+  {
+    "input_text": "200 gram doğal keten tohumu, katkısız ve doğal bir üründür.",
+    "output_text": "Doğal keten tohumu, katkı maddesi içermeyen tamamen doğal bir üründür. 200 gramlık ambalajında sunulmakta olup, salatalardan smoothielere kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "1 litre soğuk sıkım zeytinyağı, katkı maddesi içermez.",
+    "output_text": "Soğuk sıkım zeytinyağı, tamamen doğal yöntemlerle üretilmiş olup katkı maddesi içermez. 1 litrelik şişesinde sunulmakta olup, yemeklerinizde ve salatalarınızda kullanılabilir."
+  },
+  {
+    "input_text": "300 gram ceviz reçeli, doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Ceviz reçeli, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 300 gramlık ambalajda sunulmakta olup, kahvaltılar ve tatlılar için ideal bir lezzet sunar."
+  },
+  {
+    "input_text": "500 gram ev yapımı domates sosu, katkı maddesi içermez.",
+    "output_text": "Ev yapımı domates sosu, katkı maddesi içermeyen tamamen doğal malzemelerle üretilmiştir. 500 gramlık kavanozda sunulmakta olup, makarnalardan et yemeklerine kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "400 gram ev yapımı pekmez, tamamen doğal yollarla üretilmiştir.",
+    "output_text": "Ev yapımı pekmez, %100 doğal yollarla üretilmiş olup katkı maddesi içermez. 400 gramlık ambalajda sunulmakta olup, kahvaltılarda veya tatlılarda doğal bir tatlandırıcı olarak kullanılabilir."
+  },
+  {
+    "input_text": "350 gram organik siyah zeytin, katkı maddesi içermez.",
+    "output_text": "Organik siyah zeytin, katkı maddesi içermeyen tamamen doğal bir üründür. 350 gramlık ambalajında sunulmakta olup, kahvaltılarda ve salatalarda lezzetli bir alternatif sunar."
+  },
+  {
+    "input_text": "300 gram doğal keçiboynuzu pekmezi, katkı maddesi içermez.",
+    "output_text": "Doğal keçiboynuzu pekmezi, tamamen katkısız olup, 300 gramlık ambalajında sunulmaktadır. Kahvaltılarda enerji verici bir alternatif olarak kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik yulaf unu, %100 doğal içeriklerle üretilmiştir.",
+    "output_text": "Organik yulaf unu, %100 doğal yollarla üretilmiş olup katkı maddesi içermez. 500 gramlık ambalajında sunulmakta olup, sağlıklı tarifler için ideal bir alternatiftir."
+  },
+  {
+    "input_text": "250 gram organik limon reçeli, tamamen doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Bu organik limon reçeli, %100 doğal içeriklerle üretilmiş olup katkı maddesi içermez. 250 gramlık ambalajda sunulmakta olup, tatlılar ve kahvaltılar için taze bir seçenek sunar."
+  },
+  {
+    "input_text": "500 gram organik kırmızı mercimek, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Organik kırmızı mercimek, %100 doğal yollarla üretilmiş olup katkı maddesi içermez. 500 gramlık ambalajda sunulmakta olup, çorbalardan pilavlara kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "200 gram doğal lavanta sabunu, katkı maddesi içermez.",
+    "output_text": "Lavanta sabunu, tamamen doğal içeriklerle üretilmiş olup katkı maddesi içermez. 200 gramlık ambalajda sunulmakta olup, cildinize doğal bir bakım sunar."
+  },
+  {
+    "input_text": "300 gram organik keçi peyniri, katkı maddesi içermez.",
+    "output_text": "Bu organik keçi peyniri, tamamen doğal malzemelerle üretilmiş olup, katkı maddesi içermez. 300 gramlık ambalajında sunulan bu peynir, kahvaltılarda sağlıklı bir alternatif olarak kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik glütensiz un, doğal malzemelerle hazırlanmıştır.",
+    "output_text": "Organik glütensiz un, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 500 gramlık ambalajında sunulmaktadır ve sağlıklı tarifler için ideal bir seçenektir."
+  },
+  {
+    "input_text": "250 gram ev yapımı tarhana, katkısız ve doğal bir üründür.",
+    "output_text": "Ev yapımı tarhana, katkı maddesi içermeyen tamamen doğal bir üründür. 250 gramlık ambalajda sunulmakta olup, çorbalarda kullanmak için ideal bir tercihtir."
+  },
+  {
+    "input_text": "750 ml soğuk sıkım avokado yağı, katkı maddesi içermez.",
+    "output_text": "Soğuk sıkım avokado yağı, tamamen doğal yöntemlerle üretilmiş olup katkı maddesi içermez. 750 ml'lik şişesinde sunulmakta olup, yemeklerde ve salatalarda kullanılabilir."
+  },
+  {
+    "input_text": "300 gram organik dut pestili, %100 doğal malzemelerle hazırlanmıştır.",
+    "output_text": "Organik dut pestili, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 300 gramlık ambalajında sunulmakta olup, sağlıklı atıştırmalık olarak kullanılabilir."
+  },
+  {
+    "input_text": "200 gram organik kuru üzüm, katkısız ve doğal bir atıştırmalık.",
+    "output_text": "Bu organik kuru üzüm, katkı maddesi içermeyen tamamen doğal bir üründür. 200 gramlık ambalajda sunulmakta olup, sağlıklı bir atıştırmalık olarak kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik çavdar ekmeği, tamamen doğal içeriklerle üretilmiştir.",
+    "output_text": "Organik çavdar ekmeği, tamamen doğal içeriklerle üretilmiş olup katkı maddesi içermez. 500 gramlık ambalajında sunulan bu ekmek, sağlıklı bir öğün alternatifi sunar."
+  },
+  {
+    "input_text": "300 gram ev yapımı zeytin ezmesi, katkısız ve doğal.",
+    "output_text": "Ev yapımı zeytin ezmesi, %100 doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 300 gramlık ambalajında sunulmakta olup, kahvaltılarda ve yemeklerde kullanılabilir."
+  },
+  {
+    "input_text": "400 gram organik nar ekşisi, tamamen katkısızdır.",
+    "output_text": "Organik nar ekşisi, tamamen katkısız olup, 400 gramlık ambalajında sunulmaktadır. Salatalar ve mezeler için mükemmel bir lezzet katar."
+  },
+  {
+    "input_text": "250 gram doğal domates kurusu, %100 katkısızdır.",
+    "output_text": "Bu doğal domates kurusu, katkı maddesi içermeyen tamamen doğal bir üründür. 250 gramlık ambalajında sunulmakta olup, salatalar ve yemeklerde kullanılmak için idealdir."
+  },
+  {
+    "input_text": "1 litre organik badem sütü, tamamen doğal malzemelerle üretilmiştir.",
+    "output_text": "Organik badem sütü, %100 doğal malzemelerle üretilmiş olup katkı maddesi içermez. 1 litrelik ambalajında sunulmakta olup, kahvaltılarda ve içeceklerde kullanılabilir."
+  },
+  {
+    "input_text": "500 gram ev yapımı yoğurt, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Bu ev yapımı yoğurt, katkı maddesi içermeyen tamamen doğal bir üründür. 500 gramlık ambalajda sunulmakta olup, kahvaltılarda ve yemeklerde kullanılabilir."
+  },
+  {
+    "input_text": "300 gram organik çam balı, tamamen katkısızdır.",
+    "output_text": "Organik çam balı, katkı maddesi içermeyen tamamen doğal bir üründür. 300 gramlık ambalajda sunulmakta olup, kahvaltılarda ve tatlılarda kullanılmak için idealdir."
+  },
+  {
+    "input_text": "250 gram organik hurma, doğal ve katkı maddesi içermez.",
+    "output_text": "Bu organik hurma, %100 doğal malzemelerle üretilmiş olup katkı maddesi içermez. 250 gramlık ambalajda sunulmakta olup, sağlıklı bir atıştırmalık olarak kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik tam buğday unu, tamamen doğal malzemelerle üretilmiştir.",
+    "output_text": "Organik tam buğday unu, %100 doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 500 gramlık ambalajda sunulmakta olup, ekmeklerden keklere kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "300 gram ev yapımı kestane reçeli, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Bu ev yapımı kestane reçeli, tamamen doğal malzemelerle hazırlanmış olup, katkı maddesi içermez. 300 gramlık ambalajda sunulmakta olup, kahvaltılarda ve tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "400 gram organik buğday unu, %100 doğal yollarla üretilmiştir.",
+    "output_text": "Organik buğday unu, tamamen doğal yollarla üretilmiş olup katkı maddesi içermez. 400 gramlık ambalajında sunulmakta olup, sağlıklı tarifler için idealdir."
+  },
+  {
+    "input_text": "250 gram organik kaju fıstığı, tamamen doğal ve katkısızdır.",
+    "output_text": "Bu organik kaju fıstığı, tamamen doğal ve katkısız olup, 250 gramlık ambalajında sunulmaktadır. Sağlıklı bir atıştırmalık olarak tüketilebilir."
+  },
+  {
+    "input_text": "500 gram organik keçiboynuzu unu, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Organik keçiboynuzu unu, tamamen doğal malzemelerle üretilmiş olup katkı maddesi içermez. 500 gramlık ambalajında sunulmakta olup, sağlıklı tarifler için ideal bir alternatiftir."
+  },
+  {
+    "input_text": "300 gram doğal elma kurusu, tamamen katkısızdır.",
+    "output_text": "Bu elma kurusu, %100 katkısız ve doğal olarak hazırlanmış olup, 300 gramlık ambalajda sunulmaktadır. Sağlıklı bir atıştırmalık olarak kullanılabilir."
+  },
+  {
+    "input_text": "250 gram organik yaban mersini, tamamen doğal ve katkısızdır.",
+    "output_text": "Organik yaban mersini, katkı maddesi içermeyen tamamen doğal bir üründür. 250 gramlık ambalajında sunulmakta olup, sağlıklı bir atıştırmalık veya tatlılarda kullanmak için mükemmel bir tercihtir."
+  },
+  {
+    "input_text": "500 gram ev yapımı nohut, %100 doğal malzemelerle hazırlanmıştır.",
+    "output_text": "Ev yapımı nohut, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 500 gramlık ambalajda sunulan bu ürün, salatalarda ve yemeklerde kullanılabilir."
+  },
+  {
+    "input_text": "750 gram organik elma püresi, katkısız ve doğal bir üründür.",
+    "output_text": "Bu organik elma püresi, %100 doğal malzemelerle üretilmiş olup katkı maddesi içermez. 750 gramlık kavanozda sunulmakta olup, bebekler ve çocuklar için sağlıklı bir atıştırmalık olarak kullanılabilir."
+  },
+  {
+    "input_text": "1 kilogram doğal buğday, tamamen katkısızdır.",
+    "output_text": "Bu doğal buğday, katkı maddesi içermeyen tamamen doğal bir üründür. 1 kilogramlık ambalajında sunulmakta olup, ekmek ve unlu mamuller yapmak için idealdir."
+  },
+  {
+    "input_text": "500 gram ev yapımı kekik yağı, katkı maddesi içermez.",
+    "output_text": "Ev yapımı kekik yağı, %100 doğal malzemelerle üretilmiş olup katkı maddesi içermez. 500 gramlık şişede sunulmakta olup, yemeklerinizde ve salatalarınızda doğal bir aroma sunar."
+  },
+  {
+    "input_text": "250 gram ev yapımı kinoa, doğal ve glütensizdir.",
+    "output_text": "Ev yapımı kinoa, %100 doğal ve glütensiz malzemelerle üretilmiş olup, katkı maddesi içermez. 250 gramlık ambalajında sunulmakta olup, sağlıklı salata ve yemeklerde kullanılabilir."
+  },
+  {
+    "input_text": "1 litre organik süt, tamamen katkı maddesi içermez.",
+    "output_text": "Bu organik süt, tamamen doğal olarak üretilmiş olup, katkı maddesi içermez. 1 litrelik ambalajda sunulmakta olup, kahvaltılarda ve yemeklerde sağlıklı bir içecek olarak tüketilebilir."
+  },
+  {
+    "input_text": "500 gram ev yapımı organik ekşi mayalı ekmek, katkısızdır.",
+    "output_text": "Ev yapımı ekşi mayalı ekmek, %100 doğal malzemelerle hazırlanmış olup, katkı maddesi içermez. 500 gramlık ambalajında sunulmakta olup, sağlıklı ve lezzetli bir ekmek seçeneğidir."
+  },
+  {
+    "input_text": "200 gram ev yapımı organik pesto sosu, katkı maddesi içermez.",
+    "output_text": "Bu organik pesto sosu, tamamen doğal malzemelerle hazırlanmış olup, katkı maddesi içermez. 200 gramlık kavanozda sunulmakta olup, makarnalarda ve yemeklerde kullanılabilir."
+  },
+  {
+    "input_text": "300 gram organik ceviz içi, tamamen katkısızdır.",
+    "output_text": "Organik ceviz içi, katkı maddesi içermeyen tamamen doğal bir üründür. 300 gramlık ambalajında sunulmakta olup, sağlıklı bir atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "500 gram doğal kırmızı mercimek, %100 katkısızdır.",
+    "output_text": "Doğal kırmızı mercimek, katkı maddesi içermeyen %100 doğal bir üründür. 500 gramlık ambalajında sunulmakta olup, çorba ve pilav tariflerinde kullanılabilir."
+  },
+  {
+    "input_text": "250 gram ev yapımı organik granola, tamamen doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Bu ev yapımı granola, tamamen doğal ve organik içeriklerle üretilmiştir. 250 gramlık ambalajda sunulmakta olup, kahvaltılarda ve atıştırmalık olarak tüketilebilir."
+  },
+  {
+    "input_text": "500 gram organik arpa, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Organik arpa, katkı maddesi içermeyen tamamen doğal bir üründür. 500 gramlık ambalajında sunulmakta olup, pilavlardan salatalara kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "300 gram organik susam, %100 doğal malzemelerle üretilmiştir.",
+    "output_text": "Bu organik susam, %100 doğal malzemelerle üretilmiş olup katkı maddesi içermez. 300 gramlık ambalajda sunulmakta olup, hamur işlerinde ve salatalarda kullanılabilir."
+  },
+  {
+    "input_text": "1 kilogram organik badem, katkı maddesi içermeyen doğal bir üründür.",
+    "output_text": "Organik badem, tamamen doğal yollarla üretilmiş olup, katkı maddesi içermez. 1 kilogramlık ambalajında sunulan bu ürün, sağlıklı bir atıştırmalık olarak tüketilebilir."
+  },
+  {
+    "input_text": "250 gram organik yulaf ezmesi, katkı maddesi içermez.",
+    "output_text": "Bu organik yulaf ezmesi, katkı maddesi içermeyen tamamen doğal bir üründür. 250 gramlık ambalajında sunulmakta olup, kahvaltılarda veya tatlı tariflerinde kullanılabilir."
+  },
+  {
+    "input_text": "500 gram doğal kabak çekirdeği, tamamen katkısızdır.",
+    "output_text": "Bu doğal kabak çekirdeği, katkı maddesi içermeyen tamamen doğal bir üründür. 500 gramlık ambalajında sunulmakta olup, sağlıklı bir atıştırmalık olarak tüketilebilir."
+  },
+  {
+    "input_text": "250 gram organik üzüm pekmezi, katkı maddesi içermez.",
+    "output_text": "Organik üzüm pekmezi, katkı maddesi içermeyen %100 doğal bir üründür. 250 gramlık ambalajda sunulmakta olup, tatlılar ve kahvaltılar için ideal bir lezzet sunar."
+  },
+  {
+    "input_text": "1 litre organik limonata, doğal malzemelerle üretilmiştir.",
+    "output_text": "Organik limonata, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 1 litrelik ambalajında sunulmakta olup, ferahlatıcı bir içecek olarak tüketilebilir."
+  },
+  {
+    "input_text": "300 gram organik domates sosu, katkı maddesi içermez.",
+    "output_text": "Bu organik domates sosu, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 300 gramlık kavanozda sunulmakta olup, makarnalar ve yemekler için ideal bir lezzet sunar."
+  },
+  {
+    "input_text": "250 gram doğal keçiboynuzu pekmezi, katkı maddesi içermez.",
+    "output_text": "Doğal keçiboynuzu pekmezi, tamamen katkısız olup %100 doğal malzemelerle hazırlanmıştır. 250 gramlık ambalajda sunulmakta olup, kahvaltılarda ve tatlılarda doğal tatlandırıcı olarak kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik kara buğday unu, glütensiz ve katkısızdır.",
+    "output_text": "Organik kara buğday unu, tamamen glütensiz ve katkısız olup %100 doğal yöntemlerle üretilmiştir. 500 gramlık ambalajda sunulmakta olup, sağlıklı tarifler için mükemmel bir alternatiftir."
+  },
+  {
+    "input_text": "1 litre organik zencefil suyu, %100 doğal içeriklerle üretilmiştir.",
+    "output_text": "Organik zencefil suyu, tamamen doğal içeriklerle üretilmiş olup katkı maddesi içermez. 1 litrelik ambalajında sunulmakta olup, bağışıklık sistemini destekleyen sağlıklı bir içecek seçeneğidir."
+  },
+  {
+    "input_text": "500 gram ev yapımı organik acı biber turşusu, katkı maddesi içermez.",
+    "output_text": "Ev yapımı acı biber turşusu, tamamen organik malzemelerle üretilmiş olup katkı maddesi içermez. 500 gramlık ambalajında sunulmakta olup, yemeklerinize lezzet katacak doğal bir seçenek sunar."
+  },
+  {
+    "input_text": "250 gram organik kabak çekirdeği içi, %100 katkısızdır.",
+    "output_text": "Bu organik kabak çekirdeği içi, katkı maddesi içermeyen tamamen doğal bir üründür. 250 gramlık ambalajda sunulmakta olup, salatalarda ve sağlıklı atıştırmalıklarda kullanılabilir."
+  },
+  {
+    "input_text": "300 gram ev yapımı organik elma sirkesi, katkı maddesi içermez.",
+    "output_text": "Ev yapımı elma sirkesi, %100 doğal içeriklerle hazırlanmış olup katkı maddesi içermez. 300 gramlık şişesinde sunulmakta olup, yemeklerde ve salatalarda kullanılabilir."
+  },
+  {
+    "input_text": "1 kilogram organik badem sütü, katkı maddesi içermez.",
+    "output_text": "Organik badem sütü, %100 doğal yollarla hazırlanmış olup, katkı maddesi içermez. 1 kilogramlık ambalajında sunulmakta olup, kahvaltılarda ve içeceklerde kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik keçiboynuzu tozu, katkısız ve doğal bir üründür.",
+    "output_text": "Bu organik keçiboynuzu tozu, tamamen katkısız olup %100 doğal malzemelerle hazırlanmıştır. 500 gramlık ambalajda sunulmakta olup, keklerden tatlılara kadar birçok tarifte kullanılabilir."
+  },
+  {
+    "input_text": "250 gram doğal kuru erik, %100 katkısızdır.",
+    "output_text": "Bu doğal kuru erik, %100 katkısız ve doğal malzemelerle üretilmiştir. 250 gramlık ambalajında sunulmakta olup, sağlıklı bir atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "1 litre organik çilek suyu, tamamen doğal içeriklerle hazırlanmıştır.",
+    "output_text": "Organik çilek suyu, tamamen doğal malzemelerle hazırlanmış olup katkı maddesi içermez. 1 litrelik şişesinde sunulmakta olup, sağlıklı bir içecek olarak tüketilebilir."
+  },
+  {
+    "input_text": "400 gram organik yulaf ezmesi, %100 doğal malzemelerle hazırlanmıştır.",
+    "output_text": "Bu organik yulaf ezmesi, tamamen doğal içeriklerle üretilmiş olup katkı maddesi içermez. 400 gramlık ambalajda sunulmakta olup, sağlıklı kahvaltılar ve atıştırmalık tarifler için kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik siyah üzüm reçeli, katkısız ve doğal bir üründür.",
+    "output_text": "Organik siyah üzüm reçeli, tamamen katkısız olup %100 doğal malzemelerle üretilmiştir. 500 gramlık kavanozda sunulmakta olup, kahvaltılarda ve tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "300 gram ev yapımı organik sarımsak turşusu, %100 doğal malzemelerle üretilmiştir.",
+    "output_text": "Ev yapımı sarımsak turşusu, tamamen doğal içeriklerle hazırlanmış olup katkı maddesi içermez. 300 gramlık ambalajında sunulmakta olup, yemeklerinize ve salatalarınıza lezzet katabilir."
+  },
+  {
+    "input_text": "750 gram organik vişne pekmezi, katkısız ve tamamen doğal.",
+    "output_text": "Bu organik vişne pekmezi, katkı maddesi içermeyen tamamen doğal malzemelerle hazırlanmıştır. 750 gramlık ambalajda sunulmakta olup, kahvaltılarda ve tatlılarda kullanılabilir."
+  },
+  {
+    "input_text": "250 gram doğal zerdeçal tozu, katkı maddesi içermez.",
+    "output_text": "Doğal zerdeçal tozu, %100 katkısız ve doğal yollarla üretilmiş bir üründür. 250 gramlık ambalajda sunulmakta olup, yemeklerde ve sağlıklı içeceklerde kullanılabilir."
+  },
+  {
+    "input_text": "500 gram organik kırmızı biber, tamamen doğal içeriklerle üretilmiştir.",
+    "output_text": "Bu organik kırmızı biber, tamamen doğal yöntemlerle hazırlanmış olup katkı maddesi içermez. 500 gramlık ambalajda sunulmakta olup, yemeklerde ve salatalarda kullanılabilir."
+  },
+  {
+    "input_text": "400 gram ev yapımı cevizli sucuk, %100 doğal malzemelerle üretilmiştir.",
+    "output_text": "Ev yapımı cevizli sucuk, tamamen doğal içeriklerle hazırlanmış olup katkı maddesi içermez. 400 gramlık ambalajda sunulmakta olup, tatlı ve atıştırmalık olarak kullanılabilir."
+  },
+  {
+    "input_text": "300 gram doğal bal kabağı çekirdeği, katkı maddesi içermez.",
+    "output_text": "Doğal bal kabağı çekirdeği, %100 katkısız ve doğal malzemelerle üretilmiştir. 300 gramlık ambalajında sunulmakta olup, sağlıklı bir atıştırmalık olarak tercih edilebilir."
+  },
+  {
+    "input_text": "1 kilogram organik keçi peyniri, tamamen katkısızdır.",
+    "output_text": "Bu organik keçi peyniri, katkı maddesi içermeyen tamamen doğal bir üründür. 1 kilogramlık ambalajda sunulmakta olup, kahvaltılarda ve salatalarda kullanılabilir."
+  }
+]
