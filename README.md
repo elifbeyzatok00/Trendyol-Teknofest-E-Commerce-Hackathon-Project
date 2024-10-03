@@ -1,4 +1,4 @@
-# Trendyol Teknofest E-Commerce Hackathon - Product Name Generation Model, Text Improvement Model & Image Similarity Detection Algorithm
+# Trendyol Teknofest E-Commerce Hackathon Project - Product Name Generation Model, Text Improvement Model & Image Similarity Detection Algorithm
 
 This repository is part of an e-commerce solution aimed at enhancing the digital presence of local producers by generating product names, improving product descriptions, and finding visually similar high-resolution images. The project includes three main components: product name generation, text improvement, and image similarity detection.
 
