@@ -19,6 +19,12 @@ The repository is divided into four key modules:
 
 ---
 
+## Project Workflow Diagram
+
+![diagram](project_workflow_diagram.png)
+
+---
+
 ## Project Inference Samples
 
 ![sample1](project_inference_sample1.png)
