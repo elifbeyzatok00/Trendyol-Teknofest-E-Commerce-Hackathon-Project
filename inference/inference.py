@@ -11,12 +11,12 @@ sys.path.append(os.path.abspath('../image-improvement-model/'))
 import image_similarity
 
 # Load the product name generation model
-product_name_model_path = "../find-product-name-model/fine_tuned_savasy/mt5-mlsum-turkish-summarization"
+product_name_model_path = "../../../find-product-name-model/fine_tuned_savasy/mt5-mlsum-turkish-summarization"
 product_name_tokenizer = MT5Tokenizer.from_pretrained(product_name_model_path)
 product_name_model = MT5ForConditionalGeneration.from_pretrained(product_name_model_path)
 
 # Load the text improvement model
-text_improvement_model_path = "../text-improvement-model/fine_tuned_ozcangundes/mt5-small-turkish-summarization"
+text_improvement_model_path = "../../../text-improvement-model/fine_tuned_ozcangundes/mt5-small-turkish-summarization"
 text_improvement_tokenizer = MT5Tokenizer.from_pretrained(text_improvement_model_path)
 text_improvement_model = MT5ForConditionalGeneration.from_pretrained(text_improvement_model_path)
 
