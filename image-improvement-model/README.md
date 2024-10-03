@@ -1,4 +1,4 @@
-# Image Similarity Detection using VGG16
+# Image Similarity Detection
 
 This project uses the pre-trained VGG16 model to extract feature vectors from images and compute the cosine similarity between a user-provided image and a collection of high-resolution (HR) images. The goal is to find the HR image that is most similar to the user's image.
 
@@ -9,6 +9,14 @@ To run this project, you will need to install the following libraries:
 ```bash
 pip install numpy opencv-python tensorflow scikit-learn matplotlib
 ```
+## File/Folder Overview
+| Folder/File Name             | Description                                                                 |
+|------------------------------|-----------------------------------------------------------------------------|
+| `hr_images`                  | Contains high-quality recommended product images.                           |
+| `lr_images`                  | Contains low-quality product images for testing purposes.                   |
+| `image_similarity.py`        | Compares images from the `lr_images` folder with those in the `hr_images` folder using VGG16 and cosine similarity. |
+| `evaluation-similarity-fn.py`| Contains evaluation code for similarity functions.                          |
+
 
 ## Libraries Used
 - **TensorFlow/Keras**
